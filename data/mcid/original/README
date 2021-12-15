@@ -1,0 +1,13 @@
+Data Description
+	The following directory contains intent classification data(train, test and eval splits) for Covid-19 queries in 3 languages:
+		1. English
+		2. Spanish
+		3. French
+		4. German
+	Additionally, there is also a Spanglish directory which contains a code-switched test set for Spanglish queries.
+
+Data Format
+
+	The data is provided in the form of Tab Separated files containing two columns:
+		1. Column 1 contains the query utterance
+		2. Column 2 contains the intent/label for the query

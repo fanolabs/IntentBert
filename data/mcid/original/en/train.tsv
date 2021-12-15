@@ -1,0 +1,1258 @@
+this is great how do i help you	intent:donate
+i wish i could do something about this	intent:donate
+whom can i donate to	intent:donate
+how do i donate money	intent:donate
+i would like to help your cause	intent:donate
+do you take money	intent:donate
+who needs money right now	intent:donate
+is there a list of foundations to donate to	intent:donate
+how can i send dollars to someone	intent:donate
+what are the donation options	intent:donate
+hello	intent:hi
+hi	intent:hi
+good morning	intent:hi
+good evening	intent:hi
+nice to meet you	intent:hi
+hello robot	intent:hi
+who are you	intent:hi
+hi i'm jack	intent:hi
+hi i have a question	intent:hi
+could you help me	intent:hi
+how does the virus spread	intent:how_does_corona_spread
+how does coronavirus infect other people	intent:how_does_corona_spread
+can i get infected by touch a patient	intent:how_does_corona_spread
+can people with masks transmit it to other people	intent:how_does_corona_spread
+does the virus float in air	intent:how_does_corona_spread
+is covid-19 in the water	intent:how_does_corona_spread
+can i get it if someone sneezes on me	intent:how_does_corona_spread
+does covid only infect old people	intent:how_does_corona_spread
+what are the common vectors	intent:how_does_corona_spread
+what is causing it to spread	intent:how_does_corona_spread
+what's the latest statistics	intent:latest_numbers
+what do the numbers look like now	intent:latest_numbers
+how many people have been infected	intent:latest_numbers
+how bad is the situation in new york	intent:latest_numbers
+how many people have died because of covid	intent:latest_numbers
+how many people has coronavirus killed	intent:latest_numbers
+what do the pandemic numbers look like	intent:latest_numbers
+whta's the latest data	intent:latest_numbers
+what are the newest figures	intent:latest_numbers
+how is it like in california now	intent:latest_numbers
+what are the myths about covid	intent:myths
+fake news	intent:myths
+what are the misconceptions	intent:myths
+what news should i not listen to	intent:myths
+what are the lies they are saying	intent:myths
+any misinformation about the virus	intent:myths
+are the politicians spreading any lies	intent:myths
+what should i not trust	intent:myths
+is this story true	intent:myths
+how can i call the bs	intent:myths
+what's the latest	intent:news_and_press
+news	intent:news_and_press
+any updates	intent:news_and_press
+did anything big happen today	intent:news_and_press
+what is the press saying	intent:news_and_press
+what did the president announce	intent:news_and_press
+what are today's updates	intent:news_and_press
+tell me the news	intent:news_and_press
+what new happened today	intent:news_and_press
+give me daily updates	intent:news_and_press
+thanks for doing this	intent:okay_thanks
+omg so glad someone built this	intent:okay_thanks
+this is amazing	intent:okay_thanks
+you are so useful	intent:okay_thanks
+thank you very much	intent:okay_thanks
+okay	intent:okay_thanks
+hmm thanks for the info	intent:okay_thanks
+may god bless you	intent:okay_thanks
+thnx bro	intent:okay_thanks
+ty	intent:okay_thanks
+how can i stay safe	intent:protect_yourself
+what should i do to prevent	intent:protect_yourself
+preventive measures	intent:protect_yourself
+what precautions should i take for covid	intent:protect_yourself
+i'm scared what do i do	intent:protect_yourself
+how can i protect my family	intent:protect_yourself
+my parents are old what do i do	intent:protect_yourself
+i don't wanna die	intent:protect_yourself
+what can i do to avoid getting sick	intent:protect_yourself
+how should i protect myself	intent:protect_yourself
+share this with jack	intent:share
+send this info to my friends	intent:share
+share chat	intent:share
+post to friends	intent:share
+how do i tell everyone about this	intent:share
+i'll tell my family about this	intent:share
+send this to parents	intent:share
+share with mom	intent:share
+broadcast this chat	intent:share
+send this to everyone	intent:share
+is it safe to travel now	intent:travel
+can i take the bus to work	intent:travel
+should i cancel my vacation	intent:travel
+what is essential travel	intent:travel
+can i take uber	intent:travel
+is it okay if i take the train	intent:travel
+can i travel domestically	intent:travel
+should i cancel my flight	intent:travel
+can we move around freely now	intent:travel
+travel advice	intent:travel
+what are the symptoms	intent:what_are_symptoms
+i have a cold should i be worried	intent:what_are_symptoms
+i dont have a fever but a headache	intent:what_are_symptoms
+i've had a cold for a week now	intent:what_are_symptoms
+is coughing a sign of the virus	intent:what_are_symptoms
+i think i have the flu	intent:what_are_symptoms
+my throat is sore do i have the virus	intent:what_are_symptoms
+is vomiting a symptom	intent:what_are_symptoms
+what are the signs of the virus	intent:what_are_symptoms
+how do i tell if someone is infected	intent:what_are_symptoms
+do we have a cure yet	intent:what_are_treatment_options
+what are the treatment options	intent:what_are_treatment_options
+is there a vaccine for covid	intent:what_are_treatment_options
+do hospitals know how to fix this	intent:what_are_treatment_options
+what have the doctors come up with	intent:what_are_treatment_options
+how can i get treated	intent:what_are_treatment_options
+what medicine should i take for covid	intent:what_are_treatment_options
+is coronavirus treatable	intent:what_are_treatment_options
+what can the hospitals do in this situation	intent:what_are_treatment_options
+where should i go for medical advice	intent:what_are_treatment_options
+i traveled to new york recently am i infected	intent:what_if_i_visited_high_risk_area
+my flight from japan had someone test positive should i be worried	intent:what_if_i_visited_high_risk_area
+i went to the hospital without a mask what should i do	intent:what_if_i_visited_high_risk_area
+what should i do if i went to china	intent:what_if_i_visited_high_risk_area
+i've been to a lot of infected places will i get the coronavirus	intent:what_if_i_visited_high_risk_area
+what is coronavirus	intent:what_is_corona
+what is covid 19	intent:what_is_corona
+i want to know about the virus	intent:what_is_corona
+can you tell me about the virus	intent:what_is_corona
+where does the virus come from	intent:what_is_corona
+how does the virus work	intent:what_is_corona
+what is a virus	intent:what_is_corona
+is coronavirus like the flu	intent:what_is_corona
+is coronavirus dangerous	intent:what_is_corona
+tldr of coronavirus	intent:what_is_corona
+can i get the virus from dogs	intent:can_i_get_from_feces_animal_pets
+should i stop eating meat	intent:can_i_get_from_feces_animal_pets
+does the virus transmit via pets	intent:can_i_get_from_feces_animal_pets
+can i get it from animals	intent:can_i_get_from_feces_animal_pets
+can the virus spread through feces	intent:can_i_get_from_feces_animal_pets
+can amazon packages transmit the virus	intent:can_i_get_from_packages_surfaces
+is it safe to get food delivered	intent:can_i_get_from_packages_surfaces
+how often should i clean my table	intent:can_i_get_from_packages_surfaces
+can i get covid-19 by touching my eyes	intent:can_i_get_from_packages_surfaces
+will i get infected if i touch something a patient has used	intent:can_i_get_from_packages_surfaces
+can i use essential oils to tread covid	intent:what_are_treatment_options
+can medicine cure corona	intent:what_are_treatment_options
+is there a vaccine yet for the covid	intent:what_are_treatment_options
+what can i do to treat myself if i'm sick with coronavirus	intent:what_are_treatment_options
+is the malaria medicine safe for treatment of covid	intent:what_are_treatment_options
+does coronavirus have a cure	intent:what_are_treatment_options
+what can i use at home to treat myself if i have corona	intent:what_are_treatment_options
+is there a vaccine to treat the coronavirus	intent:what_are_treatment_options
+does elderberry juice treat covid	intent:what_are_treatment_options
+are there any treatments for covid	intent:what_are_treatment_options
+treatments for corona	intent:what_are_treatment_options
+does hydroxychloroquine treat covid	intent:what_are_treatment_options
+covid vaccine	intent:what_are_treatment_options
+can i get a vaccine for covid	intent:what_are_treatment_options
+what treatment is there for covid	intent:what_are_treatment_options
+what are my covid treatment options	intent:what_are_treatment_options
+what's the best cure for covid-19	intent:what_are_treatment_options
+how do people get rid of the coronavirus	intent:what_are_treatment_options
+is plasma donation good to treat coronavirus	intent:what_are_treatment_options
+is tamiflu effective against covid	intent:what_are_treatment_options
+can i use hydroxycholroquine for novel virus	intent:what_are_treatment_options
+does quinine help with covid	intent:what_are_treatment_options
+treatment covid 19	intent:what_are_treatment_options
+latest treatment for sars cov 2	intent:what_are_treatment_options
+best cure for the corona virus	intent:what_are_treatment_options
+is there otc medicine that will help covid	intent:what_are_treatment_options
+what are the treatment options for covid	intent:what_are_treatment_options
+what are doctors using for covid	intent:what_are_treatment_options
+can i use flu medicine to treat covid	intent:what_are_treatment_options
+are there any approved vaccines for covid-19	intent:what_are_treatment_options
+outline the current covid-19 treatments, please	intent:what_are_treatment_options
+does hydroxycholroquine work as a treatment for the coronavirus	intent:what_are_treatment_options
+what does the cdc recommend to treat coronavirus	intent:what_are_treatment_options
+is the coronavirus curable	intent:what_are_treatment_options
+what treatments are there for covid right now	intent:what_are_treatment_options
+what can i do to cure coronavirus	intent:what_are_treatment_options
+covid cure please	intent:what_are_treatment_options
+is there a vaccine for coronavirus yet	intent:what_are_treatment_options
+natural remedies for covid-19 side effects	intent:what_are_treatment_options
+give me treatment options for covid-19	intent:what_are_treatment_options
+cure for covid-19	intent:what_are_treatment_options
+is there a covid-19 vaccine in the works	intent:what_are_treatment_options
+what are some treatment options for covid-19	intent:what_are_treatment_options
+is there a vaccine for covid-19	intent:what_are_treatment_options
+are there any natural treatments for the coronavirus	intent:what_are_treatment_options
+what medicines are effective against covid-19	intent:what_are_treatment_options
+is vitamin c useful to prevent coronavirus infection	intent:what_are_treatment_options
+what's the treatment for a coronavirus patient	intent:what_are_treatment_options
+how do i cure coronavirus if i caught it	intent:what_are_treatment_options
+is there any vaccine for covid-19	intent:what_are_treatment_options
+at-home remedies for covid	intent:what_are_treatment_options
+cdc covid-19 treatment recommendations	intent:what_are_treatment_options
+can i use vinegar to clean my throat	intent:what_are_treatment_options
+what can i use instead	intent:what_are_treatment_options
+the covid 19 vacciine is on the way	intent:what_are_treatment_options
+can i use it as soon as it wil be delivered	intent:what_are_treatment_options
+what are the treatment options for covid-19	intent:what_are_treatment_options
+is eucaliptus a treatment option for coronavirus	intent:what_are_treatment_options
+what can i use as a treatment for covid-19	intent:what_are_treatment_options
+can i get a vaccine for coronavirus	intent:what_are_treatment_options
+how can i treat myself for coronavirus	intent:what_are_treatment_options
+is there a cure yet for covid-19	intent:what_are_treatment_options
+treatment against covid-19	intent:what_are_treatment_options
+show me treatment options for the virus	intent:what_are_treatment_options
+does hydroxychloroquine treat corona	intent:what_are_treatment_options
+if i think i have covid should i go to the hospital	intent:what_are_treatment_options
+how can i alleviate covid symptoms	intent:what_are_treatment_options
+how to treat covid at home	intent:what_are_treatment_options
+how many more months until a vaccine is ready	intent:what_are_treatment_options
+where is a covid-19 vaccine being developed	intent:what_are_treatment_options
+how are covid patients treated in the hospital	intent:what_are_treatment_options
+will essential oils fight coronavirus	intent:what_are_treatment_options
+what are my treatment options for covid 19	intent:what_are_treatment_options
+do any countries have a cure for coronavirus	intent:what_are_treatment_options
+will eating more fruit cure coronavirus	intent:what_are_treatment_options
+is there a vaccine against coronavirus	intent:what_are_treatment_options
+will heat therapy treat coronavirus	intent:what_are_treatment_options
+how to alleviate coronavirus symptoms	intent:what_are_treatment_options
+do nsaids treat covid 19	intent:what_are_treatment_options
+how to get treated for corona virus	intent:what_are_treatment_options
+covid 19 cures	intent:what_are_treatment_options
+best treatment for corona virus cough	intent:what_are_treatment_options
+covid myths	intent:myths
+is it a myth that covid is worse than the regular flu	intent:myths
+did they spread corona on purpose	intent:myths
+popular coronavirus myths, please	intent:myths
+myths about covid, please	intent:myths
+was the coronavirus engineered	intent:myths
+what are some popular covid myths	intent:myths
+pangolin myth covid	intent:myths
+is covid fake	intent:myths
+tell me information on corona virus myths	intent:myths
+is it a myth that children aren't prone to getting corona	intent:myths
+is covid-19 a bioweapon	intent:myths
+get me latest coronavirus myths	intent:myths
+was covid lad-made to control masses	intent:myths
+is social distancing a myth	intent:myths
+did corona virus come from a lab	intent:myths
+did a tiger really get the corona virus	intent:myths
+what is the most common myth of covid	intent:myths
+is it a myth that lavender helps covid	intent:myths
+give me info on the weirdest covid myths	intent:myths
+what are myths about coronavirus	intent:myths
+is it a myth that covid is made up	intent:myths
+what are the newest covid-19 myths	intent:myths
+what are the top five myths about coronavirus	intent:myths
+is it a myth that coronavirus spreads in cold climates	intent:myths
+does 5g cause coronavirus	intent:myths
+any new myths about covid-19	intent:myths
+did donald trump fabricate coronavirus to get re-elected	intent:myths
+is it a myth that diffused oils can cure covid-19	intent:myths
+give me some conspiracy theories on coronavirus	intent:myths
+is it the covid-19 transmited by water	intent:myths
+did the covid 19 come from africa	intent:myths
+myths about using mask filters	intent:myths
+is it a myth that covid-19 can re-infect people	intent:myths
+is it true that drinking alcohol prevents coronavirus	intent:myths
+gargling salty water to prevent the coronavirus	intent:myths
+myths about pets and coronavirus	intent:myths
+myths about home remedies for covid-19	intent:myths
+show the latest myths about coronavirus	intent:myths
+is it true that hot baths kill covid-19	intent:myths
+do animals spread the virus	intent:myths
+coronavirus with heart disease myth	intent:myths
+is it a myth that ibuprofin makes coronavirus worse	intent:myths
+what are the most recent covid-19 myths	intent:myths
+covid age myth	intent:myths
+covid myths versus facts	intent:myths
+what are some myths floating around about covid	intent:myths
+why are there so many covid myths	intent:myths
+why are there lots of myths about coronavirus on the news	intent:myths
+tell me some covid-19 myths that have been debunked	intent:myths
+is a myth that you can get coronavirus more than once	intent:myths
+tell me about the myths related to coronavirus	intent:myths
+which myths about coronovirus are actually true	intent:myths
+is it a myth that covid 19 started in china	intent:myths
+coronavirus myths	intent:myths
+what covid myths have been debunked	intent:myths
+is it true that there's covid vaccine	intent:myths
+what are common myths about corona	intent:myths
+is it a myth that gargling salt water kills corona	intent:myths
+send me some myths about covid19	intent:myths
+can i get through the border to mexico	intent:travel
+is traveling by car safe	intent:travel
+does cruising count as non-essential travel	intent:travel
+can i travel to go camping	intent:travel
+i wanna know if i can still go to hawaii	intent:travel
+can i fly to see my son across the country	intent:travel
+is it safe to travel on a train	intent:travel
+need travel advice	intent:travel
+can i still travel to europe	intent:travel
+is it safe to travel by bus	intent:travel
+should i stop using public transport	intent:travel
+is the metro still working in france	intent:travel
+will i be ok if i fly to new york in the summer	intent:travel
+travel tips during the pandemic	intent:travel
+can i travel from the us right now	intent:travel
+is it safe to go abroad this fall	intent:travel
+are the buses cancelled in town	intent:travel
+is crossing state lines allowed	intent:travel
+how long with travel bans be in effect	intent:travel
+what is considered essential travel	intent:travel
+is it safe to travel by your own car	intent:travel
+is it safe to travel out of the country	intent:travel
+can i visit my parents in california right now	intent:travel
+i want to know if i can take a trip to the mountains	intent:travel
+can i drive across state lines	intent:travel
+is it safe to drive to cleveland	intent:travel
+advice for traveling by train	intent:travel
+are airport bus services canceled	intent:travel
+can i visit greece within the next year and be okay	intent:travel
+is it okay to commute across state lines	intent:travel
+what is the safest mode of travel	intent:travel
+do i need to wear a mask on my subway ride	intent:travel
+what are the best precautions while travelling	intent:travel
+what are the least safe places to travel right now	intent:travel
+can i take an airplane on may the 15th	intent:travel
+can i go to ny after the quarantine	intent:travel
+is the mexican border closed because of covid 19	intent:travel
+is there any airline operating these days	intent:travel
+can you give me some travel advice	intent:travel
+are taxis considered unsafe	intent:travel
+is it safe to travel right now	intent:travel
+what's the safest transport right now	intent:travel
+are there any safe destinations	intent:travel
+what are the safety measures for a domestic travel	intent:travel
+is it safe to travel with kids	intent:travel
+is it safer to travel on plane or train	intent:travel
+what does the cdc recommend for travelers	intent:travel
+do i need to disinfect my luggage when travelling	intent:travel
+can i still take domestic flights	intent:travel
+when will travel bans lift	intent:travel
+should i keep my summer trips planned	intent:travel
+what is considered essential travel	intent:travel
+how do i travel safely	intent:travel
+am i allowed to leave my state	intent:travel
+do you think i have to cancel my trip to japan in august	intent:travel
+can i travel out of my city	intent:travel
+is my trip to las vegas considered non-essential	intent:travel
+can i travel to canada right now	intent:travel
+are trains still running in europe	intent:travel
+can i take the subway to the store	intent:travel
+are domestic flights cancelled, too	intent:travel
+should i cancel all my upcoming flights to the usa	intent:travel
+can i travel to europe right now	intent:travel
+is it safe to ride a bike	intent:travel
+give me the best options for travel in dc	intent:travel
+is it safe to get on a flight	intent:travel
+is it still possible to go to europe	intent:travel
+should i travel by car	intent:travel
+what is considered non-essential travel	intent:travel
+is it okay to travel to alaska	intent:travel
+safe travel options	intent:travel
+can i still travel by train	intent:travel
+can i safely travel via bus	intent:travel
+where can i go in the world that's safe	intent:travel
+should i cancel my destination wedding to italy	intent:travel
+can i travel to mexico via foot	intent:travel
+is buying groceries an excuse to be outside	intent:travel
+is there any reliable news on corona	intent:news_and_press
+can i get the latest updates for covid in az	intent:news_and_press
+what was in the last press release about covid	intent:news_and_press
+coronavirus news please	intent:news_and_press
+show all the news on corona in my county	intent:news_and_press
+can i get a news briefing about covid	intent:news_and_press
+please show me updates about the coronavirus in the us	intent:news_and_press
+what are the current developments about corona worldwide	intent:news_and_press
+what is the latest covid news	intent:news_and_press
+what is the news on corona virus in my state	intent:news_and_press
+what's the latest on the pandemic in puerto rico	intent:news_and_press
+how's the virus situation in italy now	intent:news_and_press
+corona virus news from bbc	intent:news_and_press
+can i see today's news on covid 19	intent:news_and_press
+can i see reports on infection rates	intent:news_and_press
+send me news updates from the last hour	intent:news_and_press
+what's the lastest news from italy	intent:news_and_press
+any news on a vaccine	intent:news_and_press
+today's coronavirus update, please	intent:news_and_press
+what is the most recent new from spain	intent:news_and_press
+are there any economic updates	intent:news_and_press
+send me the latest news from germany, please	intent:news_and_press
+what does the cft about the economic crisis	intent:news_and_press
+what does the press say about the vaccine development	intent:news_and_press
+tell me the best news about the covid 19 cure process	intent:news_and_press
+any news about covid	intent:news_and_press
+what's the latest on coronavirus in dc	intent:news_and_press
+covid-19 news from south korea	intent:news_and_press
+get me today's press release about the virus	intent:news_and_press
+please send me the latest coronavirus news	intent:news_and_press
+show me the latest about covid-19 in mexico	intent:news_and_press
+what are the most important updates on coronavirus in the world	intent:news_and_press
+send me all news articles about coronavirus in california	intent:news_and_press
+covid-19 updates	intent:news_and_press
+updates for my area	intent:news_and_press
+where can i get news on covid-19	intent:news_and_press
+coronavirus news subscription	intent:news_and_press
+what's the most recent news about covid-19	intent:news_and_press
+recent developments in my city	intent:news_and_press
+will there be a press conference today	intent:news_and_press
+what are the most recent coronavirus numbers	intent:news_and_press
+gimme the daily corona update	intent:news_and_press
+what time will the press release be today	intent:news_and_press
+what's new with coronavirus in florida	intent:news_and_press
+please give me the latest updates on covid-19	intent:news_and_press
+coronavirus news in spain today	intent:news_and_press
+what are the who press releases on covid-19 this week	intent:news_and_press
+have there been any updates on coronavirus from the cdc since last week	intent:news_and_press
+corona updates, please	intent:news_and_press
+covid-19 press releases	intent:news_and_press
+what updates can you give me about covid-19	intent:news_and_press
+are there any recent covid-19 press releases	intent:news_and_press
+what's the most recent news from australia	intent:news_and_press
+show me yesterday's press release from trump	intent:news_and_press
+what's the latest news on the situation in india	intent:news_and_press
+get me news from my hometown	intent:news_and_press
+what's the latest news about covid	intent:news_and_press
+any news about the virus in italy	intent:news_and_press
+are there any news about coronavirus in my area	intent:news_and_press
+any updates on the corona situation today	intent:news_and_press
+can you show me the latest updates in washington	intent:news_and_press
+updates from italy	intent:news_and_press
+most recent news from south korea	intent:news_and_press
+covid 19 updates	intent:news_and_press
+latest on corona virus	intent:news_and_press
+current developments fromthe who	intent:news_and_press
+any corona virus updates	intent:news_and_press
+what did cuomo do regarding covid today	intent:news_and_press
+what has who said about covid19	intent:news_and_press
+any news about stay at home orders regarding covid 19	intent:news_and_press
+please share this service	intent:share
+share a link to this	intent:share
+please send a link for this service	intent:share
+share this service	intent:share
+share the chat service, please	intent:share
+share the link for this	intent:share
+share link	intent:share
+can you share this bot	intent:share
+how can i share this service	intent:share
+share service please	intent:share
+share this bot on twitter	intent:share
+link this to my profile	intent:share
+share the world health bot	intent:share
+share bot to my feed	intent:share
+share this to friends	intent:share
+share this link	intent:share
+share this story	intent:share
+how do i share this with my family	intent:share
+share this link with my contacts	intent:share
+can you share the who bot	intent:share
+go on and forward this feature	intent:share
+how can i share this link	intent:share
+send a report to this link	intent:share
+link this publication to my office	intent:share
+share this information	intent:share
+how do i share this	intent:share
+share link	intent:share
+i want to share this info	intent:share
+can you share this please	intent:share
+share this post now	intent:share
+send out this information	intent:share
+forward the news	intent:share
+post this bot	intent:share
+i want to share this service	intent:share
+shareable link	intent:share
+how can i share you with people	intent:share
+i wanna share this on instagram	intent:share
+i'm gonna share this service online	intent:share
+let me share this chat	intent:share
+share this link with my friends only	intent:share
+share this on my story	intent:share
+send this to my spouse	intent:share
+post this on my timeline	intent:share
+share this service with all my followers	intent:share
+i wanna share this link with my family	intent:share
+share this, please	intent:share
+could i share this on my facebook	intent:share
+show me how i can share this, please	intent:share
+share info about this service	intent:share
+please share this on my page	intent:share
+share this info over text	intent:share
+share on my social media	intent:share
+can i share this link	intent:share
+show me how to share this to my family	intent:share
+i'd like to share this	intent:share
+can i share this information	intent:share
+share this with my friends, please	intent:share
+share the link with my family	intent:share
+how do i share this link	intent:share
+i want to share this on my page	intent:share
+share this link to my twitter followers	intent:share
+how do i share link this to my contact list	intent:share
+share this link to non believers	intent:share
+send this article to my parents	intent:share
+share link with friends on facebook	intent:share
+share the article	intent:share
+is sharing allowed	intent:share
+share this link on facebook	intent:share
+share this with a facebook group	intent:share
+share this link with mom	intent:share
+can i share this on my website	intent:share
+how do i share this with reddit	intent:share
+hi corona bot	intent:hi
+good morning doc covid	intent:hi
+hallo doctor bot	intent:hi
+morning, corona doc	intent:hi
+hi, bot	intent:hi
+hello covid bot	intent:hi
+how's it going, doc	intent:hi
+hi	intent:hi
+hey bot	intent:hi
+good morning doctor	intent:hi
+morning bot	intent:hi
+hi doc, how are you	intent:hi
+hello	intent:hi
+g'day, doc	intent:hi
+alright, bot	intent:hi
+how ya goin, bot	intent:hi
+hello bot	intent:hi
+what's up, covid bot	intent:hi
+what's new, coronabot	intent:hi
+wakey wakey, cov bot	intent:hi
+doctor corona, you there	intent:hi
+top o' the mornin' to ya, doc	intent:hi
+yo, corona bot, what's up	intent:hi
+good day, corona doc	intent:hi
+hello, doc	intent:hi
+how do you do, doctor	intent:hi
+how is it going corona doc	intent:hi
+how did you sleep mr. covid	intent:hi
+what are you gonna do today dr. covid	intent:hi
+morning doc	intent:hi
+hi covid doc	intent:hi
+hello	intent:hi
+hey corona doctor	intent:hi
+what's new covid doctor	intent:hi
+are you there doctor	intent:hi
+how's your day going corona doc	intent:hi
+hello, hello doc	intent:hi
+good morning, doctor corona	intent:hi
+wake up, corona doc	intent:hi
+hi, corona	intent:hi
+how's it going	intent:hi
+how are you doctor	intent:hi
+good morning, dr	intent:hi
+hi covid- 19 doctor	intent:hi
+how are you doing, doc	intent:hi
+what's new, doc	intent:hi
+hey, yo, what up bot	intent:hi
+good morning doc	intent:hi
+hey doc, what's new	intent:hi
+hey doc, you there	intent:hi
+bot, what's happening	intent:hi
+hey bot	intent:hi
+rise and shine mr. corona	intent:hi
+good evening	intent:hi
+what's up	intent:hi
+hi coronavirus doctor	intent:hi
+how's it going	intent:hi
+morning doctor	intent:hi
+hello covid bot	intent:hi
+hey doc	intent:hi
+hey, what's up	intent:hi
+hello doc, how's it hanging	intent:hi
+good morning, covid bot	intent:hi
+what's the word, covid bot	intent:hi
+top of the morning to you, covid bot	intent:hi
+morning	intent:hi
+hi doc bot	intent:hi
+hey covid bot	intent:hi
+how's it going covid doc	intent:hi
+afternoon, doc	intent:hi
+hello doc bot	intent:hi
+hey hey, bot doc	intent:hi
+thanks, i appreciate it	intent:okay_thanks
+great info, thanks doctor bot	intent:okay_thanks
+interesting, thanks	intent:okay_thanks
+thanks, bot	intent:okay_thanks
+thank you very much, corona doc	intent:okay_thanks
+okay thanks	intent:okay_thanks
+thank you for the information	intent:okay_thanks
+thanks doc	intent:okay_thanks
+alright thanks	intent:okay_thanks
+thanks for the help	intent:okay_thanks
+cool, thanks	intent:okay_thanks
+i appreciate it	intent:okay_thanks
+thank you for your help	intent:okay_thanks
+thank you doc	intent:okay_thanks
+thanks bot	intent:okay_thanks
+thanks for checking that up, doctor bot	intent:okay_thanks
+grateful for the feedback, covid doc	intent:okay_thanks
+really appreciate this, doctor	intent:okay_thanks
+gratitude, corona doc	intent:okay_thanks
+thanks a million, doctor	intent:okay_thanks
+i appreciate the info, doc	intent:okay_thanks
+thank you for your assistance	intent:okay_thanks
+thanks for the help	intent:okay_thanks
+thank you for your interest	intent:okay_thanks
+thank you for all the help you've given me doc	intent:okay_thanks
+i'll be so gratefull to you mr covid	intent:okay_thanks
+okay, thank you so much coronabot	intent:okay_thanks
+alright, thanks	intent:okay_thanks
+i just learned about covid-19 symptoms. thanks a bunch, doc	intent:okay_thanks
+thank you doc for teaching about face masks	intent:okay_thanks
+thanks for all your help	intent:okay_thanks
+thanks so much doc	intent:okay_thanks
+i appreciate it, thank you	intent:okay_thanks
+ok, thanks a lot	intent:okay_thanks
+thank you for the help today	intent:okay_thanks
+i really appreciate you for helping me	intent:okay_thanks
+you're literally a life saver, thanks doc	intent:okay_thanks
+thank you so so much	intent:okay_thanks
+thanks for the help, doc	intent:okay_thanks
+that's exactly what i needed to know - thanks bot	intent:okay_thanks
+thank you for all the information	intent:okay_thanks
+great, thanks a bunch	intent:okay_thanks
+thanks for the info, doc	intent:okay_thanks
+okay, thanks covid doc	intent:okay_thanks
+thank you so much for all the help	intent:okay_thanks
+thanks for the help, bot	intent:okay_thanks
+thank you	intent:okay_thanks
+thank you so much for the info	intent:okay_thanks
+much appreciated, bot	intent:okay_thanks
+you're such a big help, doc	intent:okay_thanks
+thank you for sharing this info with me	intent:okay_thanks
+thanks for everything	intent:okay_thanks
+much appreciated, corona bot	intent:okay_thanks
+thanks for sharing this with me	intent:okay_thanks
+thank you, doc	intent:okay_thanks
+thanks bot	intent:okay_thanks
+thanks for the info doc	intent:okay_thanks
+thanks much, doc bot	intent:okay_thanks
+rightio, thank you covid doc	intent:okay_thanks
+thanks a bunch bot doc	intent:okay_thanks
+thanks for all this, covid bot	intent:okay_thanks
+donate to the food bank	intent:donate
+send money to the relief fund	intent:donate
+please send a donation to a local charity	intent:donate
+how do i donate to unemployed people in my town	intent:donate
+how do i donate to grocery store workers in town	intent:donate
+i wanna send money to unemployed people	intent:donate
+please help me send money to nyc hospitals	intent:donate
+how do i give money to a ventilator fund	intent:donate
+donate money to who	intent:donate
+i want to donate to spain	intent:donate
+how can i donate	intent:donate
+donate money now	intent:donate
+give money to the who fund	intent:donate
+donate to the food bank	intent:donate
+donate covid	intent:donate
+how can i donate to corona relief	intent:donate
+can i donate to medical needs for corona virus	intent:donate
+let's donate for new york	intent:donate
+provide funding for virus cure	intent:donate
+how to donate for corona treatment	intent:donate
+give out money	intent:donate
+funding for high-risk locations	intent:donate
+i'd like to make a donation	intent:donate
+donate to covid-19	intent:donate
+who is taking coronavirus donations	intent:donate
+i wanna donate	intent:donate
+can i donate some groceries	intent:donate
+i want to donate for the refugees	intent:donate
+donate to make more masks	intent:donate
+i wanna donate to the covid 19 illness people	intent:donate
+send out funds to coronavirus efforts in colorado	intent:donate
+donate medical material to the nearest hospital	intent:donate
+make a donation to dallas' fundraiser for coronavirus	intent:donate
+how do i donate	intent:donate
+donate to seattle	intent:donate
+how can i donate	intent:donate
+give funding for my area	intent:donate
+i wanna give funds to italy	intent:donate
+donate to covid-19 relief now	intent:donate
+i wanna donate a bit of money	intent:donate
+coronavirus donation info, please	intent:donate
+where can i donate to covid-19 relief	intent:donate
+does my city have a local relief fund	intent:donate
+i'd like to donate to help italy	intent:donate
+how can i donate to new york city	intent:donate
+i'd like to donate to italy	intent:donate
+how do i donate to support washington	intent:donate
+send funds to raleigh	intent:donate
+show me how to donate please	intent:donate
+i'd like to provide funding to spain	intent:donate
+donate in my area	intent:donate
+tell me how to donate please	intent:donate
+donate to local schools	intent:donate
+donate to india	intent:donate
+i want to donate to local relief efforts	intent:donate
+please help me donate to covid-19 medical research	intent:donate
+send funds to nursing homes in my area	intent:donate
+show me organizations accepting donations in my state	intent:donate
+i wanna make a monetary donation	intent:donate
+charitable donation for covid	intent:donate
+how can i find out more about donation campaigns	intent:donate
+i'd like to send a donation to blue cross	intent:donate
+how can i donate money to help feed homeless	intent:donate
+donate to the who	intent:donate
+how can i donate to the red cross	intent:donate
+where do i go to donate to the red cross	intent:donate
+can i donate to my county	intent:donate
+how do i donate locally	intent:donate
+i want to donate to research in my state	intent:donate
+where can i donate canned goods	intent:donate
+can i donate to hospitals near me	intent:donate
+how many cases are there in the world	intent:latest_numbers
+how many corona virus cases are there globally now	intent:latest_numbers
+what's the latetest stats on covid19	intent:latest_numbers
+what's the stats on corona in new york now	intent:latest_numbers
+what's the case count in new york	intent:latest_numbers
+how many people have died from covid19 in the u.s. already	intent:latest_numbers
+how many cases per 100k people in california	intent:latest_numbers
+what's the death count in south korea	intent:latest_numbers
+how many people died today in the u.s	intent:latest_numbers
+how many people died yesterday in the u.s	intent:latest_numbers
+how many new cases are there in california	intent:latest_numbers
+what's the death count in santa clara county	intent:latest_numbers
+show me the lastest stats for china	intent:latest_numbers
+how many new cases popped up in singapore	intent:latest_numbers
+tell me the lastest stats in texas	intent:latest_numbers
+i'd like to know how many people have been tested so far for covid19 in the u.s	intent:latest_numbers
+can you tell me the total confirmed cases in the tri-state area	intent:latest_numbers
+number of people who got tested in new york	intent:latest_numbers
+what's the country with the most death count	intent:latest_numbers
+how many people have been tested in the korea so far	intent:latest_numbers
+what are the statistics in canada for covid	intent:latest_numbers
+how many new cases are there worldwide today	intent:latest_numbers
+what are the stats in the uk for the coronavirus	intent:latest_numbers
+what is the average age of people affected in the us	intent:latest_numbers
+what is the rate of recovery for corona in europe	intent:latest_numbers
+how many people are recovered in california	intent:latest_numbers
+average hospital occupancy with cases of corona	intent:latest_numbers
+what is the average cost of testing for the virus	intent:latest_numbers
+how many hospitals have access to testing for the virus	intent:latest_numbers
+number of cases in mexico	intent:latest_numbers
+death rate of coronavirus in the us	intent:latest_numbers
+average age of death from the virus	intent:latest_numbers
+how many essential workers have been infected so far	intent:latest_numbers
+what are the statistics on countries enforcing mask wearing versus countries that don't	intent:latest_numbers
+how many people are infected daily by corona	intent:latest_numbers
+how many people total in the world have recovered from the virus	intent:latest_numbers
+how many elderly people have recovered from the virus	intent:latest_numbers
+what is the average rate of recovery for people between the ages of 20 and 40	intent:latest_numbers
+what is the projected number of deaths from the virus if we do not socially distance	intent:latest_numbers
+what are the number of cases worldwide	intent:latest_numbers
+number of cases in north korea	intent:latest_numbers
+how many tests are there in are available in the us	intent:latest_numbers
+death rate in the united kingdom	intent:latest_numbers
+how many deaths has covid-19 caused worldwide	intent:latest_numbers
+whats the latest numbers in california	intent:latest_numbers
+what is the death rate in china	intent:latest_numbers
+what is the recovery rate in the us	intent:latest_numbers
+whart is the recovery rate in china	intent:latest_numbers
+infected cases in colorado	intent:latest_numbers
+recovery rate in san francisco	intent:latest_numbers
+recovery rate in modesto	intent:latest_numbers
+how many people under the age of 18 are infected	intent:latest_numbers
+number of recovery cases in new york	intent:latest_numbers
+daily recovery rate in the us	intent:latest_numbers
+what ethnicity has taken the largest hit from covid	intent:latest_numbers
+how many people over the age 40 has been infected	intent:latest_numbers
+how many people have been infected since march	intent:latest_numbers
+latest stats on cases in africa	intent:latest_numbers
+total deaths from covid in australia	intent:latest_numbers
+recovery rate in chicago	intent:latest_numbers
+whar are the number of cases in china	intent:latest_numbers
+number of cases in vietnam	intent:latest_numbers
+how many active cases that are critical condition	intent:latest_numbers
+number of cases in europe	intent:latest_numbers
+how many have died in the uk	intent:latest_numbers
+what are the latest numbers of south korea	intent:latest_numbers
+how many cases are there in india	intent:latest_numbers
+number of recovered cases in italy	intent:latest_numbers
+how can i protect myself from coronavirus	intent:protect_yourself
+will wearing a mask be enough	intent:protect_yourself
+does regular flu vaccine help fight the virus	intent:protect_yourself
+what kind of face mask helps	intent:protect_yourself
+does disinfecting clothes after grocery shopping help	intent:protect_yourself
+how to avoid getting the virus	intent:protect_yourself
+should i need to wash my fresh groceries	intent:protect_yourself
+ways to protect myself from the virus	intent:protect_yourself
+should i disinfect my grocery bags	intent:protect_yourself
+top precautions for the virus	intent:protect_yourself
+should i take vitamins to protect myself	intent:protect_yourself
+how effective are gloves	intent:protect_yourself
+should different age groups take different prevention measures	intent:protect_yourself
+are cloth masks as efficient as surgical masks	intent:protect_yourself
+what cleaning products should i use	intent:protect_yourself
+what measures should elderly individuals be taking	intent:protect_yourself
+how do i prevent my kids from getting the virus	intent:protect_yourself
+how often should i wash a cloth mask	intent:protect_yourself
+how do i keep safe from getting virus	intent:protect_yourself
+how often should i switch out my face mask	intent:protect_yourself
+how should i shop for produce at the grocery store	intent:protect_yourself
+how far apart should i stand from other people	intent:protect_yourself
+should i stop using cash	intent:protect_yourself
+should i be wiping down my groceries	intent:protect_yourself
+should i be ordering packages online	intent:protect_yourself
+should i wash my hands with hot or cold water	intent:protect_yourself
+what can i do to protect others from getting the virus	intent:protect_yourself
+how can i not get coronavirus	intent:protect_yourself
+how do i not get sick from coronavirus	intent:protect_yourself
+how can i stay safe from covid-19	intent:protect_yourself
+what will help me stay safe	intent:protect_yourself
+tell me some ways to avoid coronavirus	intent:protect_yourself
+tell me some tips to staying safe	intent:protect_yourself
+what are some steps to avoid covid-19	intent:protect_yourself
+what methods will help prevent coronavirus	intent:protect_yourself
+give me information to avoiding covid-19	intent:protect_yourself
+how can i protect my family from covid-19	intent:protect_yourself
+in what ways can we protect ourselves from coronavirus	intent:protect_yourself
+in what ways can i protect my children	intent:protect_yourself
+what are some ways to staying safe from covid-19	intent:protect_yourself
+should i wear face masks to prevent covid-19	intent:protect_yourself
+will gloves help stop coronavirus	intent:protect_yourself
+will wearing gloves help me avoid covid-19	intent:protect_yourself
+does wearing gloves help me stay safe from covid-19	intent:protect_yourself
+should i stand six feet apart from others	intent:protect_yourself
+will cotton facemasks protect me	intent:protect_yourself
+do i need a n95 mask	intent:protect_yourself
+will hand sanitizers protect me from the virus	intent:protect_yourself
+should i avoid large crowded places	intent:protect_yourself
+do face masks help	intent:protect_yourself
+do kids need to wear face masks	intent:protect_yourself
+how can i protect against the virus	intent:protect_yourself
+do i need to wear a face mask to walk outdoors	intent:protect_yourself
+do cloth face mask help prevent the spread	intent:protect_yourself
+does drinking water reduce getting the virus	intent:protect_yourself
+best place to avoid getting the virus	intent:protect_yourself
+best way to prevent getting the virus	intent:protect_yourself
+how can i protect my dog	intent:protect_yourself
+do infants need a face mask	intent:protect_yourself
+do any medications protect against the virus	intent:protect_yourself
+do i need to clean all my groceries	intent:protect_yourself
+should i wipe down my trunk after going grocery shopping	intent:protect_yourself
+should i sanitize my clothing after going outside	intent:protect_yourself
+should i avoid wearing jewelry when shopping	intent:protect_yourself
+can i reuse my face mask	intent:protect_yourself
+how can i protect my grandparents	intent:protect_yourself
+what is covid 19	intent:what_is_corona
+more details on covid 19 please	intent:what_is_corona
+where did the covid-19 come from	intent:what_is_corona
+what is the virus	intent:what_is_corona
+can you give me advice about covid-19	intent:what_is_corona
+what is the latest data. on the corona	intent:what_is_corona
+what is the science behind virus protection	intent:what_is_corona
+can you teach me about covid	intent:what_is_corona
+educate me about corona	intent:what_is_corona
+what is the inside story about the virus	intent:what_is_corona
+what kind of guidance can you give me on covid-19	intent:what_is_corona
+can you give me a understanding of covid	intent:what_is_corona
+what intelligence do you have on the virus	intent:what_is_corona
+give me a report on corona	intent:what_is_corona
+what is the definition of the virus	intent:what_is_corona
+give me the latest rundown on covid-19	intent:what_is_corona
+give me a summary on corona	intent:what_is_corona
+what is the narrative on the virus	intent:what_is_corona
+give me the facts about covid-19	intent:what_is_corona
+enlighten me about the virus	intent:what_is_corona
+educate me on covid-19	intent:what_is_corona
+give ma breakdown of what the virus is	intent:what_is_corona
+what is the history of covid-10	intent:what_is_corona
+what info do you have on corona	intent:what_is_corona
+give me more info on covid-19	intent:what_is_corona
+can i hear updated info on the corona virus	intent:what_is_corona
+i wanna hear more about the pandemic	intent:what_is_corona
+give me a general update on the corona virus	intent:what_is_corona
+tell me about corona virus	intent:what_is_corona
+what can you tell me about the current pandemic	intent:what_is_corona
+more infomation about corona virus, please	intent:what_is_corona
+can i hear an update on the pandemic	intent:what_is_corona
+tell me more about covid-19	intent:what_is_corona
+tell me about corona virus	intent:what_is_corona
+tell me more information on corona	intent:what_is_corona
+give me an update on the pandemic	intent:what_is_corona
+give me an update on covid-19	intent:what_is_corona
+can you tell me what covid-19 is	intent:what_is_corona
+what kind of illness is covid-19	intent:what_is_corona
+give me a definition of corona virus	intent:what_is_corona
+give me a summary on corona virus	intent:what_is_corona
+tell me about covid-19	intent:what_is_corona
+please give more info on covid-19	intent:what_is_corona
+i want to hear about corona virus	intent:what_is_corona
+tell me about covid-19, please	intent:what_is_corona
+may i have more information on covid	intent:what_is_corona
+can you elaborate on the corona	intent:what_is_corona
+what should i know about covid	intent:what_is_corona
+please elaborate on the corona	intent:what_is_corona
+what is there to know about the corona virus	intent:what_is_corona
+is there more details about the corona virus	intent:what_is_corona
+is there more we can learn about covid-19	intent:what_is_corona
+what else can i learn about the corona virus	intent:what_is_corona
+what other information must i learn about covid	intent:what_is_corona
+may i get more details on the corona	intent:what_is_corona
+what is it about the corona virus we should keep in mind	intent:what_is_corona
+could you share more information about corona	intent:what_is_corona
+care to explain explicit details on corona	intent:what_is_corona
+anything else i should understand about covid	intent:what_is_corona
+i'd like to encounter anymore details on corona	intent:what_is_corona
+is there an outline on details regarding covid	intent:what_is_corona
+corona virus, what is it	intent:what_is_corona
+more details that relate to corona virus	intent:what_is_corona
+may i know more on the corona virus	intent:what_is_corona
+more information on coronavirus please	intent:what_is_corona
+where did corona virus start	intent:what_is_corona
+what is dangerous about covid-19	intent:what_is_corona
+can you educate me on this virus	intent:what_is_corona
+how did they come up with name for the virus	intent:what_is_corona
+what information can you give me	intent:what_is_corona
+any new informations on coronavirus	intent:what_is_corona
+can you update me on any new informations for covid-19	intent:what_is_corona
+is coughing a symptom	intent:what_are_symptoms
+are the symptoms similar to having flu	intent:what_are_symptoms
+how will i know if i have covid-19	intent:what_are_symptoms
+can you please tell me the symptoms of coronavirus	intent:what_are_symptoms
+how long does these symptoms last	intent:what_are_symptoms
+if i show symptoms what should i do	intent:what_are_symptoms
+should i worry if i have a runny nose	intent:what_are_symptoms
+should i self-isolate if i show symptoms	intent:what_are_symptoms
+can you list all the symptoms	intent:what_are_symptoms
+what is the protocol if i show symptoms	intent:what_are_symptoms
+how can i rid of my cough	intent:what_are_symptoms
+is coughing a symptom	intent:what_are_symptoms
+is an upset stomach a sign of covid19	intent:what_are_symptoms
+how can i tell if i've had coronva virus	intent:what_are_symptoms
+is a fever a symptom	intent:what_are_symptoms
+what symptoms should we watch for	intent:what_are_symptoms
+list all of the corona virus symptoms	intent:what_are_symptoms
+how to tell if a family member has corona virus	intent:what_are_symptoms
+what symptoms are there	intent:what_are_symptoms
+what are some differences betweens covid19 and the common cold	intent:what_are_symptoms
+differences between allergies and covid19	intent:what_are_symptoms
+tell me all of the symptoms of covid19	intent:what_are_symptoms
+what should i be looking out for to tell if someone has it	intent:what_are_symptoms
+is a runny nose a symptom	intent:what_are_symptoms
+can corona virus cause pnumonia	intent:what_are_symptoms
+what symptoms are most common	intent:what_are_symptoms
+tell me about the different symptoms of corona virus	intent:what_are_symptoms
+what are some early symptoms	intent:what_are_symptoms
+is having a lack of taste a symptom	intent:what_are_symptoms
+is a headache one of the symptoms	intent:what_are_symptoms
+is having a hard time to breathe a symptom	intent:what_are_symptoms
+is a sign of corona having a lack of breath	intent:what_are_symptoms
+do i have allergies or covid-19	intent:what_are_symptoms
+is coughing a symptom of the corona virus disease	intent:what_are_symptoms
+what are some tell tale signs of covid-19	intent:what_are_symptoms
+are muscle aches a symptom of corona	intent:what_are_symptoms
+what are the main ways to see if i have it	intent:what_are_symptoms
+what should i check to see if i have the disease	intent:what_are_symptoms
+are the symptoms of covid-19 similar to allergies	intent:what_are_symptoms
+is coughing blood a symptom of it	intent:what_are_symptoms
+is a fever a symptom of corona virus	intent:what_are_symptoms
+how long does corona virus last	intent:what_are_symptoms
+how severe do the symptoms get	intent:what_are_symptoms
+how long should i wait to get help if i show signs of corona	intent:what_are_symptoms
+what are the main symptoms of the corona virus	intent:what_are_symptoms
+how can i tell if someone has corona	intent:what_are_symptoms
+what are the signs you may have the corona	intent:what_are_symptoms
+is a runny nose a symptom of the covid-19	intent:what_are_symptoms
+what are the symptoms of the coronavirus disease	intent:what_are_symptoms
+is shortness of breath a symptom	intent:what_are_symptoms
+is pneumonia a symptom	intent:what_are_symptoms
+is headache a symptom of the coronavirus disease	intent:what_are_symptoms
+i have a dry cough, does that mean i have the corona virus	intent:what_are_symptoms
+does the covid-19 cause diarrhoea	intent:what_are_symptoms
+does the covid-19 cause nasal congestion	intent:what_are_symptoms
+i have been extra tired lately does that mean u have the corona	intent:what_are_symptoms
+is headache a symptom of the coronavirus disease	intent:what_are_symptoms
+is chest pain a sign i have covid-19	intent:what_are_symptoms
+does the corona cause pressure in my chest	intent:what_are_symptoms
+does coughing up phlem mean i. have the corona	intent:what_are_symptoms
+does the corona cause lack. of appetite	intent:what_are_symptoms
+i have a fever does that mean i have the corona	intent:what_are_symptoms
+can i get covid-19 from insects	intent:how_does_corona_spread
+how long does the corona stay on my kids toys	intent:how_does_corona_spread
+can i get covid-19 from kids dirty clothes	intent:how_does_corona_spread
+can i get the corona from opening my mail	intent:how_does_corona_spread
+can my parrot get the corona	intent:how_does_corona_spread
+can my snake get covid-19	intent:how_does_corona_spread
+is it true dogs were less susceptible to the corona	intent:how_does_corona_spread
+is it true plants cant spread the corona virus	intent:how_does_corona_spread
+can i get sick with covid through food	intent:how_does_corona_spread
+can ticks spread coronavirus	intent:how_does_corona_spread
+how does coronavirus get transmitted	intent:how_does_corona_spread
+how is coronavirus spread in public	intent:how_does_corona_spread
+what is the most common way covid is spread	intent:how_does_corona_spread
+does the coronavirus spread through air	intent:how_does_corona_spread
+how fast can people get infected if there is a community spread	intent:how_does_corona_spread
+can you give me more info on respiratory transmission	intent:how_does_corona_spread
+can my dog get infected with covid	intent:how_does_corona_spread
+is person-to-person contact the main mode of covid transmission	intent:how_does_corona_spread
+can asymptomatic people spread coronavirus	intent:how_does_corona_spread
+is it possible to for me to get infected with covid and spread it to others without knowing	intent:how_does_corona_spread
+can i spread coronavirus if i'm pregnant	intent:how_does_corona_spread
+can someone spread coronavirus if they don't have symptoms	intent:how_does_corona_spread
+can covid spread if someone only has mild symptoms	intent:how_does_corona_spread
+is covid more likely to spread in humid weather	intent:how_does_corona_spread
+can a mosquito bite give me covid	intent:how_does_corona_spread
+can covid-19 spread through pools	intent:how_does_corona_spread
+can the virus spread though the sewarage system	intent:how_does_corona_spread
+is corona virus spreadable through air filters and/or air conditioning	intent:how_does_corona_spread
+is corona virus airborne	intent:how_does_corona_spread
+can warm weather slow the spread of covid-19	intent:how_does_corona_spread
+is the disease able to spread by food	intent:how_does_corona_spread
+are mosquitos and ticks be able to spread corona virus	intent:how_does_corona_spread
+how likely is covid-19 spreadable through tap water	intent:how_does_corona_spread
+can i use a mask to help with spreading corona virus	intent:how_does_corona_spread
+how do gloves play a part with the covid-19 epidemic	intent:how_does_corona_spread
+can the disease spread from touching your eyes	intent:how_does_corona_spread
+may i have more information on airbone transmission	intent:how_does_corona_spread
+what precautions can i take to help eliminate spreading of this virus	intent:how_does_corona_spread
+will the 6 feet apart rule really help decrease virus transmission	intent:how_does_corona_spread
+how effective has masks been with slowing down the spread of covid-19	intent:how_does_corona_spread
+can covid-19 spread if you live in high temperature weather	intent:how_does_corona_spread
+how can someone spread the disease	intent:how_does_corona_spread
+can i have more information on aerosol transmission	intent:how_does_corona_spread
+how does covid-19 spread so easily	intent:how_does_corona_spread
+does corona virus spread from touching someone infected only	intent:how_does_corona_spread
+how can the covid-19 spread decrease in a large community	intent:how_does_corona_spread
+can covid-19 spread by shared living spaces	intent:how_does_corona_spread
+does it travel in the air	intent:how_does_corona_spread
+how can i get it	intent:how_does_corona_spread
+do flies carry the 19	intent:how_does_corona_spread
+how does 19 spread	intent:how_does_corona_spread
+does the virus travel by smells	intent:how_does_corona_spread
+can the virus be spread by kissing	intent:how_does_corona_spread
+why is this virus spreading so fast	intent:how_does_corona_spread
+how does the virus travel	intent:how_does_corona_spread
+can i get the 19 by using public transport	intent:how_does_corona_spread
+do fruit-flies carry the virus	intent:how_does_corona_spread
+is 6ft apart effective to stop spreading the virus	intent:how_does_corona_spread
+does the disease travel in food	intent:how_does_corona_spread
+how does the virus keep spreading	intent:how_does_corona_spread
+is the virus spreading growing	intent:how_does_corona_spread
+should i wear a mask	intent:how_does_corona_spread
+why is the virus spreading	intent:how_does_corona_spread
+does the virus spread slower beacuse of heat	intent:how_does_corona_spread
+do bees carry the virus	intent:how_does_corona_spread
+can a ladybug carry the virus	intent:how_does_corona_spread
+how is the virus reaching to my house	intent:how_does_corona_spread
+how is the virus traveling	intent:how_does_corona_spread
+can the virus travel by touching door knobs	intent:how_does_corona_spread
+can the 19 be spread faster	intent:how_does_corona_spread
+is the virus in the air	intent:how_does_corona_spread
+do i need to worry about wild life like birds, squirrels? can them spread virus too	intent:can_i_get_from_feces_animal_pets
+should i eat uncooked meat like sushi without coronavirus concern	intent:can_i_get_from_feces_animal_pets
+is the coronavirus disease zoonotic	intent:can_i_get_from_feces_animal_pets
+can pets spread covid-19	intent:can_i_get_from_feces_animal_pets
+can animals carry the coronavirus	intent:can_i_get_from_feces_animal_pets
+why coronavirus affects some animals, but not others	intent:can_i_get_from_feces_animal_pets
+should pets be tested for coronavirus	intent:can_i_get_from_feces_animal_pets
+can fish and aquarium water spread the virus to people	intent:can_i_get_from_feces_animal_pets
+can insects be coronavirus carriers	intent:can_i_get_from_feces_animal_pets
+can mosquitoes spread coronavirus	intent:can_i_get_from_feces_animal_pets
+can houseflies spread covid-19	intent:can_i_get_from_feces_animal_pets
+how to protect your pets from covid-19	intent:can_i_get_from_feces_animal_pets
+which pet is the most at risk for the coronavirus disease	intent:can_i_get_from_feces_animal_pets
+how can i tell if my pet get sick from coronavirus	intent:can_i_get_from_feces_animal_pets
+should i quarantine my cat too	intent:can_i_get_from_feces_animal_pets
+should my pet wear a face mask when in public	intent:can_i_get_from_feces_animal_pets
+can i take my pet's ivermectin to prevent or treat my covid-19 infection	intent:can_i_get_from_feces_animal_pets
+what animal did covid-19 originate from	intent:can_i_get_from_feces_animal_pets
+could the coronavirus mutate over time into strains for dogs or cats	intent:can_i_get_from_feces_animal_pets
+is there any evidence that pets other than dogs and cats could be susceptible	intent:can_i_get_from_feces_animal_pets
+who will collect the samples from my pets if my pets have covid-19 symptoms	intent:can_i_get_from_feces_animal_pets
+what should i do if i think my animal has the new strain of coronavirus	intent:can_i_get_from_feces_animal_pets
+can a pet's fur spread the virus that causes covid-19	intent:can_i_get_from_feces_animal_pets
+i am helping someone who is sick by walking their dog. how do i stay safe	intent:can_i_get_from_feces_animal_pets
+can i get corona virus from eating beef	intent:can_i_get_from_feces_animal_pets
+can my dog get the virus	intent:can_i_get_from_feces_animal_pets
+if i eat sea food can i get corona	intent:can_i_get_from_feces_animal_pets
+does corona virus transmit from birds	intent:can_i_get_from_feces_animal_pets
+can i get corona virus from mosquitos	intent:can_i_get_from_feces_animal_pets
+are my birds at risk to catch the virus	intent:can_i_get_from_feces_animal_pets
+should i be worried about my pets catching covid 19	intent:can_i_get_from_feces_animal_pets
+how does corona effect my pets	intent:can_i_get_from_feces_animal_pets
+how can i tell if my cat has corona	intent:can_i_get_from_feces_animal_pets
+if i pet a cat can i get covid 19	intent:can_i_get_from_feces_animal_pets
+if a dog bites me can i get covid 19	intent:can_i_get_from_feces_animal_pets
+can i get the virus from eating pork	intent:can_i_get_from_feces_animal_pets
+does corona virus transmit from pets to humans	intent:can_i_get_from_feces_animal_pets
+can chickens carry the virus	intent:can_i_get_from_feces_animal_pets
+do i need to worry about my dog getting corona	intent:can_i_get_from_feces_animal_pets
+should i worry about petting animals and getting the virus	intent:can_i_get_from_feces_animal_pets
+can i get covid 19 from mice	intent:can_i_get_from_feces_animal_pets
+what animals carry corona	intent:can_i_get_from_feces_animal_pets
+has any animals tested positive from corona	intent:can_i_get_from_feces_animal_pets
+is there any information from an animal getting sick and transmitting it to a human	intent:can_i_get_from_feces_animal_pets
+can a dog contract the virus	intent:can_i_get_from_feces_animal_pets
+can i contract coronavirus from a guinea pig	intent:can_i_get_from_feces_animal_pets
+how safe is it to own a pet bat	intent:can_i_get_from_feces_animal_pets
+do cat scratches contain the virus	intent:can_i_get_from_feces_animal_pets
+how safe are cat bites during the pandemic	intent:can_i_get_from_feces_animal_pets
+can chicken breasts contain the rona	intent:can_i_get_from_feces_animal_pets
+are there any cases of getting covid from eating steaks	intent:can_i_get_from_feces_animal_pets
+please tell me my fish are safe from the covid-19	intent:can_i_get_from_feces_animal_pets
+what types of animals can spread the virus	intent:can_i_get_from_feces_animal_pets
+can my daughter get the virus from my pet	intent:can_i_get_from_feces_animal_pets
+are baby animals affected more	intent:can_i_get_from_feces_animal_pets
+are sea animals contracting the virus	intent:can_i_get_from_feces_animal_pets
+can a bird test positive	intent:can_i_get_from_feces_animal_pets
+how can i care for a cat that has contracted the virus	intent:can_i_get_from_feces_animal_pets
+can the blood of an infected animal spread the virus to my kids	intent:can_i_get_from_feces_animal_pets
+does bird feces contain the virus	intent:can_i_get_from_feces_animal_pets
+can mites spread the disease to rats	intent:can_i_get_from_feces_animal_pets
+can a dead skunk on the road get a hungry coyote ill	intent:can_i_get_from_feces_animal_pets
+how many types of marsupials have been infected	intent:can_i_get_from_feces_animal_pets
+is there a limit to how many animals can be treated for the rona	intent:can_i_get_from_feces_animal_pets
+can humans contract coronavirus from an aimal	intent:can_i_get_from_feces_animal_pets
+does the coronavirus affect dogs	intent:can_i_get_from_feces_animal_pets
+are my animals at risk to catch the corona virus	intent:can_i_get_from_feces_animal_pets
+can pets spread covid19	intent:can_i_get_from_feces_animal_pets
+how does the virus affect animals	intent:can_i_get_from_feces_animal_pets
+do i need to worry about my pets during the virus	intent:can_i_get_from_feces_animal_pets
+how can i tell if my dog has the virus	intent:can_i_get_from_feces_animal_pets
+are there any symptoms for animals that have the virus	intent:can_i_get_from_feces_animal_pets
+give me information about the virus and animals	intent:can_i_get_from_feces_animal_pets
+will i get the virus from eating meat	intent:can_i_get_from_feces_animal_pets
+can i get covid19 from mail deliveries	intent:can_i_get_from_packages_surfaces
+should i be worried about getting the virus from delivery packages	intent:can_i_get_from_packages_surfaces
+how long does the virus live on surfaces	intent:can_i_get_from_packages_surfaces
+will withdrawing cash from an atm give me the virus	intent:can_i_get_from_packages_surfaces
+can coronavirus live on the exterior of my face mask	intent:can_i_get_from_packages_surfaces
+can covid19 live on food items touched by an infected person	intent:can_i_get_from_packages_surfaces
+can covid19 live on bags from the store	intent:can_i_get_from_packages_surfaces
+how long does it take for covid 19 to leave surfaces	intent:can_i_get_from_packages_surfaces
+can covid 19 live on car surfaces	intent:can_i_get_from_packages_surfaces
+can i get the virus from my phone surface	intent:can_i_get_from_packages_surfaces
+can electonic surfaces contain covid19	intent:can_i_get_from_packages_surfaces
+what is the amount of time the corona virus stays on surfaces	intent:can_i_get_from_packages_surfaces
+can the virus live on wood items	intent:can_i_get_from_packages_surfaces
+should i be using public hand rails without gloves	intent:can_i_get_from_packages_surfaces
+can the virus be on doors	intent:can_i_get_from_packages_surfaces
+what is the timeframe for covid19 to remain active on surfaces	intent:can_i_get_from_packages_surfaces
+does covid-19 live long on cardboard	intent:can_i_get_from_packages_surfaces
+can coronavirus get on door handles	intent:can_i_get_from_packages_surfaces
+will i get coronavirus from touching hand rails	intent:can_i_get_from_packages_surfaces
+does the virus live on mail boxes	intent:can_i_get_from_packages_surfaces
+will covid-19 stick to my gloves	intent:can_i_get_from_packages_surfaces
+can you get coronavirus from borrowing clothes	intent:can_i_get_from_packages_surfaces
+can i get the virus from using plastic bags from safeway	intent:can_i_get_from_packages_surfaces
+can coronavirus get on my toilet paper	intent:can_i_get_from_packages_surfaces
+can the virus spread on my tv remote	intent:can_i_get_from_packages_surfaces
+will i get covid from my groceries	intent:can_i_get_from_packages_surfaces
+should i wash all my shopping	intent:can_i_get_from_packages_surfaces
+can you get covid from opening a trash can	intent:can_i_get_from_packages_surfaces
+will corona die fast on metal	intent:can_i_get_from_packages_surfaces
+can the virus live on my phone	intent:can_i_get_from_packages_surfaces
+should i disinfect my table every day	intent:can_i_get_from_packages_surfaces
+can covid live long on trees	intent:can_i_get_from_packages_surfaces
+am i safe to handle plastic things	intent:can_i_get_from_packages_surfaces
+what's the worst thing to touch	intent:can_i_get_from_packages_surfaces
+whats the best material covid-19 dies on	intent:can_i_get_from_packages_surfaces
+how long is covid-19 active on surfaces	intent:can_i_get_from_packages_surfaces
+are there surfaces covid-19 cant live on	intent:can_i_get_from_packages_surfaces
+does covid-19 go away after some time	intent:can_i_get_from_packages_surfaces
+is there type of material it cant live on	intent:can_i_get_from_packages_surfaces
+how long does it stay on a surface that isnt touched	intent:can_i_get_from_packages_surfaces
+does hand santizer kill the virus on packages	intent:can_i_get_from_packages_surfaces
+does covid-19 attach itself to the walls	intent:can_i_get_from_packages_surfaces
+does covid-19 stay on books	intent:can_i_get_from_packages_surfaces
+does covid-19 stay on gaming systems	intent:can_i_get_from_packages_surfaces
+what surface is safe from covid-19	intent:can_i_get_from_packages_surfaces
+does covid-19 seep into the walls	intent:can_i_get_from_packages_surfaces
+does covid-19 have a surface it cant attach to	intent:can_i_get_from_packages_surfaces
+does covid-19 attach onto fruit	intent:can_i_get_from_packages_surfaces
+is it safe to use glassware	intent:can_i_get_from_packages_surfaces
+is touching hand rails safe	intent:can_i_get_from_packages_surfaces
+do i need to clean my mailbox	intent:can_i_get_from_packages_surfaces
+can bleach kill the virus	intent:can_i_get_from_packages_surfaces
+can alcohol kill the virus	intent:can_i_get_from_packages_surfaces
+which surfaces are likely to have virus	intent:can_i_get_from_packages_surfaces
+what surface will have virus for the longest time	intent:can_i_get_from_packages_surfaces
+how does the virus survive on different surfaces	intent:can_i_get_from_packages_surfaces
+how long coronavirus stay on surfaces	intent:can_i_get_from_packages_surfaces
+can you get sick by touching a surface with virus	intent:can_i_get_from_packages_surfaces
+does it stay active on surfaces	intent:can_i_get_from_packages_surfaces
+while staying on surfaces does covid become stronger	intent:can_i_get_from_packages_surfaces
+which surface is most likely to have virus for the longest time	intent:can_i_get_from_packages_surfaces
+does virus thrive in water	intent:can_i_get_from_packages_surfaces
+how to clean the groceries	intent:can_i_get_from_packages_surfaces
+can cloth mask be a carrier of virus	intent:can_i_get_from_packages_surfaces
+do you need to dilute bleach to clean	intent:can_i_get_from_packages_surfaces
+is vinegar effective in cleaning plastics	intent:can_i_get_from_packages_surfaces
+how to clean delivery packages	intent:can_i_get_from_packages_surfaces
+how effective is cleaning with alcohol	intent:can_i_get_from_packages_surfaces
+how do i know if iam in a high risk area	intent:what_if_i_visited_high_risk_area
+is there a specific number of cases that define high risk area	intent:what_if_i_visited_high_risk_area
+how to protect myself in high risk areas	intent:what_if_i_visited_high_risk_area
+how do we protect ourselves from virus in family	intent:what_if_i_visited_high_risk_area
+will self quarantine help if i have come back from a high risk area	intent:what_if_i_visited_high_risk_area
+should i get tested after visiting a high risk area	intent:what_if_i_visited_high_risk_area
+i live in a high risk area what are the chances i have contracted or am a carrier of disease	intent:what_if_i_visited_high_risk_area
+what are the high risk areas nearby	intent:what_if_i_visited_high_risk_area
+show me local high risk areas	intent:what_if_i_visited_high_risk_area
+what are high risk areas for coronavirus	intent:what_if_i_visited_high_risk_area
+what is the nearest high risk area to me	intent:what_if_i_visited_high_risk_area
+list high risk areas for covid-19	intent:what_if_i_visited_high_risk_area
+what locations are considered at high risk for coronavirus	intent:what_if_i_visited_high_risk_area
+what areas are at most risk for coronavirus outbreak	intent:what_if_i_visited_high_risk_area
+what do i do if i have to visit a high risk area	intent:what_if_i_visited_high_risk_area
+which states have the highest coronavirus outbreaks	intent:what_if_i_visited_high_risk_area
+can i travel to and from a high risk area for coronavirus	intent:what_if_i_visited_high_risk_area
+what policies are in place for high risk areas	intent:what_if_i_visited_high_risk_area
+am i in a high risk area for covid-19	intent:what_if_i_visited_high_risk_area
+what qualifies as a high risk area for coronavirus	intent:what_if_i_visited_high_risk_area
+how do i know if i have traveled from a high risk area	intent:what_if_i_visited_high_risk_area
+which countries are most affected by coronavirus outbreak	intent:what_if_i_visited_high_risk_area
+what types of businesses are considered high risk	intent:what_if_i_visited_high_risk_area
+what if i have to work in a high risk area during coronavirus outbreak	intent:what_if_i_visited_high_risk_area
+how should i self-quarantine in a high risk coronavirus area	intent:what_if_i_visited_high_risk_area
+what if i have come in contact with someone at the grocery store	intent:what_if_i_visited_high_risk_area
+what areas have the quarantine restrictions in place for covid-19	intent:what_if_i_visited_high_risk_area
+can i fly during coronavirus outbreak	intent:what_if_i_visited_high_risk_area
+can i travel outside the united states right now	intent:what_if_i_visited_high_risk_area
+how do i find out current quarantine restrictions for my city	intent:what_if_i_visited_high_risk_area
+how do i know if i have visited a high risk area	intent:what_if_i_visited_high_risk_area
+what should i do if i visited a high risk area	intent:what_if_i_visited_high_risk_area
+are there any guidelines i can follow if i visited a high risk area	intent:what_if_i_visited_high_risk_area
+what should my mom do since she works at the hospital	intent:what_if_i_visited_high_risk_area
+what should healthcare workers be doing	intent:what_if_i_visited_high_risk_area
+how do i protect myself if i need to go out for essentials	intent:what_if_i_visited_high_risk_area
+is there a list of items i should wear if i am going somewhere	intent:what_if_i_visited_high_risk_area
+what are the steps to protect myself when entering a hisk risk area	intent:what_if_i_visited_high_risk_area
+should i be worried about my girlfriend coming home from the hospital	intent:what_if_i_visited_high_risk_area
+should i be scared since i was around a lot of people	intent:what_if_i_visited_high_risk_area
+what city nearby is the highest risk	intent:what_if_i_visited_high_risk_area
+what shoud essential workers do to protect people in their household	intent:what_if_i_visited_high_risk_area
+where can i find a list of high risk countries	intent:what_if_i_visited_high_risk_area
+are there steps to follow for people who visited high risk areas	intent:what_if_i_visited_high_risk_area
+is there a protocol to follow when i need to leave my house	intent:what_if_i_visited_high_risk_area
+what state in the united states is at the highest risk	intent:what_if_i_visited_high_risk_area
+is public transportation considered a high risk area	intent:what_if_i_visited_high_risk_area
+i just visited a high risk area, should i get tested	intent:what_if_i_visited_high_risk_area
+is there a list of protected gear i need when leaving my house	intent:what_if_i_visited_high_risk_area
+what makes a place considered high risk	intent:what_if_i_visited_high_risk_area
+is a place with 10 or more people considered a high risk area	intent:what_if_i_visited_high_risk_area
+are beaches considered high risk areas	intent:what_if_i_visited_high_risk_area
+is it safe to walk around wuhan now	intent:what_if_i_visited_high_risk_area
+is it ok to visit a hospital this week	intent:what_if_i_visited_high_risk_area
+i live near the beach. should i be concerned	intent:what_if_i_visited_high_risk_area
+is it safe to go grocery shopping	intent:what_if_i_visited_high_risk_area
+is munich germany also on lockdown	intent:what_if_i_visited_high_risk_area
+which state has the second highest risk	intent:what_if_i_visited_high_risk_area
+do high risk areas have their own protocol	intent:what_if_i_visited_high_risk_area
+is china still considered a high risk country	intent:what_if_i_visited_high_risk_area
+should i avoid those who recently came back from international travel	intent:what_if_i_visited_high_risk_area
+is the company building i work at considered a high risk area	intent:what_if_i_visited_high_risk_area
+how do i protect myself in high risk areas	intent:what_if_i_visited_high_risk_area
+is there a list of countries that are officially high risk	intent:what_if_i_visited_high_risk_area
+am i in a high risk area	intent:what_if_i_visited_high_risk_area
+which countries are still in a nationwide shutdown	intent:what_if_i_visited_high_risk_area
+what do i do if i live with essential employees	intent:what_if_i_visited_high_risk_area

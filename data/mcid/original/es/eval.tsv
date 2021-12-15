@@ -1,0 +1,161 @@
+me gustaría saber el número de muertes de corona virus en florida	intent:latest_numbers
+dime cuántos casos confirmados de covid hay en méxico	intent:latest_numbers
+estadísticas de pacientes recuperados a fecha de hoy en el mundo	intent:latest_numbers
+me facilitás la cantidad de recuperados de corona virus en mi ciudad	intent:latest_numbers
+cuántos casos confirmados de covid19 hay en el mundo	intent:latest_numbers
+cuáles son los países con más muertos por covid19	intent:latest_numbers
+estadísticas mundiales sobre el coronavirus	intent:latest_numbers
+dígame cuántos casos hay actualmente en cuba	intent:latest_numbers
+cuántos contagiados hay en argentina	intent:latest_numbers
+cómo puedo proteger a los menores frente al corona virus	intent:protect_yourself
+me dices, por favor, qué debo hacer para no contagiarme de corona virus	intent:protect_yourself
+si puedes dime la mejor forma de prevenir contagios en los menores	intent:protect_yourself
+qué puedo usar si no tengo cubrebocas en mi casa	intent:protect_yourself
+cómo puedo prevenir el contagio de corona virus	intent:protect_yourself
+cómo evito que el virus entre a mi casa si salgo a comprar comida	intent:protect_yourself
+cuánta lejía tengo que usar para limpiar los productos del covid19	intent:protect_yourself
+medidas de cuidado para que adultos mayores no se contagien de covid19	intent:protect_yourself
+cómo puedo hacer para protegerme del coronavirus	intent:protect_yourself
+a cuántos metros puedo estar de otra persona sin que me contagie	intent:protect_yourself
+qué prevenciones deben tomar los adultos mayores frente al covid-19	intent:protect_yourself
+cómo hago para no atrapar el corona virus	intent:protect_yourself
+no me quiero enfermar. ¿qué puedo hacer	intent:protect_yourself
+cómo evito contagiarme del covid 19	intent:protect_yourself
+es necesario desinfectar los calzados al volver de lugares públicos	intent:protect_yourself
+quiero aprender más del coronavirus	intent:what_is_corona
+dime todo del coronavirus	intent:what_is_corona
+qué tan mortal es el covid-19	intent:what_is_corona
+muéstrame información del coronavirus, por favor	intent:what_is_corona
+me dices la diferencia entre coronavirus y sars	intent:what_is_corona
+qué enfermedades están relacionadas con el covid	intent:what_is_corona
+hay otro virus que se llame corona virus	intent:what_is_corona
+cuál es la diferencia entre el corona virus y el de la influenza	intent:what_is_corona
+me explicás qué es exactamente el covid 19	intent:what_is_corona
+en qué consiste el virus del covid19	intent:what_is_corona
+dame datos básicos del coronavirus	intent:what_is_corona
+quiero que me des información científica sobre el coronavirus	intent:what_is_corona
+dame una definición de covid 19	intent:what_is_corona
+define corona virus	intent:what_is_corona
+qué tal si me das un resumen sobre el corona virus	intent:what_is_corona
+estoy interesada en saber cuáles son los síntomas del corona virus, por favor	intent:what_are_symptoms
+tengo mucha necesidad por conocer cuáles son los principales sintomas del corona virus	intent:what_are_symptoms
+crees que el dolor de garganta es un síntoma de corona virus	intent:what_are_symptoms
+como puedo saber si tengo corona virus	intent:what_are_symptoms
+cuáles son los principales síntomas del corona virus	intent:what_are_symptoms
+cómo afecta la covid al cuerpo	intent:what_are_symptoms
+qué ataca el covid	intent:what_are_symptoms
+diferencias entre la influenza y el covid	intent:what_are_symptoms
+cuáles son los síntomas de alguien que tiene coronavirus	intent:what_are_symptoms
+es posible que sólo tenga síntomas estomacales y sea corona virus	intent:what_are_symptoms
+cuál es el síntoma más evidente que indica corona virus	intent:what_are_symptoms
+dime si tener diarrea es un síntoma suficiente para hacerse un examen	intent:what_are_symptoms
+necesito una lista de síntomas frecuentes de corona virus	intent:what_are_symptoms
+afectaciones de alguien con coronavirus	intent:what_are_symptoms
+cómo saber si estoy infectada de coronavirus	intent:what_are_symptoms
+lista de síntomas del coronavirus	intent:what_are_symptoms
+cómo se contagia el corona virus	intent:how_does_corona_spread
+búscame información de cómo se contagia el corona virus, por favor	intent:how_does_corona_spread
+cuáles son los factores de riesgo del covid	intent:how_does_corona_spread
+puedo contagiarme por caminar en la calle	intent:how_does_corona_spread
+por tocar una superficie me puedo contagiar de covid19	intent:how_does_corona_spread
+el coronavirus, ¿es una enfermedad de transmición sexual	intent:how_does_corona_spread
+el virus le puede dar a uno por contacto de piel	intent:how_does_corona_spread
+quisiera informacion sobre si los animales pueden contagiar el corona virus	intent:can_i_get_from_feces_animal_pets
+realmente necesito saber si mediante los animales podemos contagiarnos de corona virus	intent:can_i_get_from_feces_animal_pets
+el coronavirus se transmite entre especies	intent:can_i_get_from_feces_animal_pets
+le puede dar coronavirus a mi mascota	intent:can_i_get_from_feces_animal_pets
+a mis gatos les puede dar coronavirus	intent:can_i_get_from_feces_animal_pets
+si me como un murciélago tendré coronavirus	intent:can_i_get_from_feces_animal_pets
+las palomas propagan el corona virus	intent:can_i_get_from_feces_animal_pets
+por qué hay tigres con corona virus	intent:can_i_get_from_feces_animal_pets
+necesito proteger a mi perro del virus	intent:can_i_get_from_feces_animal_pets
+es cierto que el covid19 viene de los murciélagos	intent:can_i_get_from_feces_animal_pets
+los cerdos se pueden enfermar del virus	intent:can_i_get_from_feces_animal_pets
+puede un perro darle corona virus a un gato	intent:can_i_get_from_feces_animal_pets
+montar un caballo puede pasarme el virus	intent:can_i_get_from_feces_animal_pets
+tienes información de cuánto tiempo dura el corona virus en el cartón	intent:can_i_get_from_packages_surfaces
+quiero que me digas si el corona virus sobrevive mucho tiempo en el papel	intent:can_i_get_from_packages_surfaces
+el coronavirus aguanta el calor	intent:can_i_get_from_packages_surfaces
+el coronavirus puede quedarse en los muebles	intent:can_i_get_from_packages_surfaces
+cuánto tiempo vive el virus en la madera	intent:can_i_get_from_packages_surfaces
+cuánto tiempo vive el virus en la mesada de mi cocina	intent:can_i_get_from_packages_surfaces
+dime si las superficies del interior de un vehículo pueden propagar el virus	intent:can_i_get_from_packages_surfaces
+qué puede pasarme si visito una zona de riesgo por corona virus	intent:what_if_i_visited_high_risk_area
+reglas para visitar zonas de riesgo de covid	intent:what_if_i_visited_high_risk_area
+pude contraer coronavirus si estuve en una zona de riesgo	intent:what_if_i_visited_high_risk_area
+cuáles son las normativas que debo seguir si volví de una zona de riesgo	intent:what_if_i_visited_high_risk_area
+que debe tener en cuenta alguien que estuvo hace poco en españa	intent:what_if_i_visited_high_risk_area
+españa es zona de alto riesgo de covid 19	intent:what_if_i_visited_high_risk_area
+qué pasa si he estado de viaje en roma	intent:what_if_i_visited_high_risk_area
+cuál es el protocolo si estuve en tránsito en zona de alto riesgo	intent:what_if_i_visited_high_risk_area
+hay algún tratamiento eficaz contra el corona virus	intent:what_are_treatment_options
+cómo dar tratamiento a un infectado de covid	intent:what_are_treatment_options
+cómo tratan los hospitales a los enfermos del covid	intent:what_are_treatment_options
+si me da coronavirus, ¿cómo me voy a curar	intent:what_are_treatment_options
+cómo están curando a los pacientes	intent:what_are_treatment_options
+puedo tomarme un té para elevar mis defensas contra el coronavirus	intent:what_are_treatment_options
+la vacuna de la influenza sirve para el coronavirus	intent:what_are_treatment_options
+sirve la hidroxicloroquina para matar el coronavirus	intent:what_are_treatment_options
+es efectiva la vacuna contra la gripe para lidiar con el corona virus	intent:what_are_treatment_options
+qué información sobre covid resultó ser mito	intent:myths
+es cierto que el coronavirus es un invento del gobierno para matar a los viejitos	intent:myths
+quiero saber cuáles son los mitos más importantes sobre el virus y su desmentida	intent:myths
+decime el top tres de mitos sobre el covid-19	intent:myths
+los anteojos de sol, ¿ayudan a evitar el contagio del virus	intent:myths
+necesito saber qué información es ficticia sobre el coronavirus	intent:myths
+que noticias sobre el coronavirus son mitos	intent:myths
+te es posible decirme si los servicios de tren están cancelados en italia	intent:travel
+medidas de seguridad para viajeros	intent:travel
+cuándo la gente va a poder viajar otra vez	intent:travel
+en septiembre ya habrá viajes a europa	intent:travel
+nombrar las recomendaciones para ir al aeropuerto	intent:travel
+están funcionando los taxis estos días	intent:travel
+qué tengo que hacer para viajar en avión de forma segura en una pandemia	intent:travel
+están más baratos los vuelos a causa del covid19	intent:travel
+el subterráneo sigue funcionando	intent:travel
+tienes consejos para viajar durante la epidemia	intent:travel
+es buena idea pedir un lyft ahora que existe el virus	intent:travel
+cómo va el coronavirus? ¿qué dicen las noticias	intent:news_and_press
+cuáles son las noticias destacadas de hoy en el mundo sobre covid	intent:news_and_press
+dame los titulares de las principales noticias sobre coronavirus	intent:news_and_press
+cuáles fueron las noticias sobre el coronavirus hoy en argentina	intent:news_and_press
+muéstreme las últimas noticias sobre el virus en colombia	intent:news_and_press
+quiero tener actualizaciones diarias sobre el virus en canadá	intent:news_and_press
+dame info sobre el virus en australia	intent:news_and_press
+comparte en mi muro	intent:share
+dale like a este comentario y compártelo	intent:share
+podrías compartir esto que me acabás de decir	intent:share
+compartamos esto en mis redes	intent:share
+necesito que todos sepan lo que acabas de contarme, compartámoslo	intent:share
+lo que me estás contando, compártelo	intent:share
+usa mis redes sociales para compartir este servicio	intent:share
+compartir la noticia con mis amigos	intent:share
+puedes compartirle a mis familiares esta información	intent:share
+cómo se hace para que todos en mis redes tengan este servicio	intent:share
+compartir el vínculo	intent:share
+compártale el asistente de corona virus a mi familia	intent:share
+buenas noches, compadre	intent:hi
+cómo está mi informante	intent:hi
+qué más, coronin	intent:hi
+cómo va eso, corona	intent:hi
+hola, asistente corona virus	intent:hi
+¡qué tal	intent:hi
+cómo dice que le va, doctor digital	intent:hi
+¡hola, corona	intent:hi
+millones de gracias por la información	intent:okay_thanks
+excelente, gracias	intent:okay_thanks
+me queda claro, muchas gracias	intent:okay_thanks
+gracias por toda la información	intent:okay_thanks
+oye, doctor, que sepas que agradezco la información	intent:okay_thanks
+sabes que siento agradecimiento hacia ti	intent:okay_thanks
+estoy muy agradecida por los datos que me diste	intent:okay_thanks
+gracias por decirme, muy útil	intent:okay_thanks
+un profundo agradecimiento	intent:okay_thanks
+dame información de cómo puedo hacer una donación	intent:donate
+quisiera realizar una donación	intent:donate
+por favor, aplica una donación de 1000 pesos a esta propuesta	intent:donate
+quiero donar elementos de limpieza al pueblo de mi mamá	intent:donate
+querría que hicieras una donación a la provincia de buenos aires, por favor	intent:donate
+me ayudarías a donar parte de mis ahorros	intent:donate
+ayúdame a enviar dinero a san juan	intent:donate
+me gustaría regalarles dinero a los más afectados por el covid	intent:donate

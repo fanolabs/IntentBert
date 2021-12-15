@@ -1,0 +1,326 @@
+sag mir die neuesten statistiken zum corona virus	intent:latest_numbers
+wie viele fälle gibt es in deutschland	intent:latest_numbers
+wie viele menschen sind von covid-19 betroffen	intent:latest_numbers
+aktuelle fallzahlen für deutschland	intent:latest_numbers
+die aktulle statistikefür corona in iran	intent:latest_numbers
+die corona todesfälle in deutschland	intent:latest_numbers
+die fallzahlen für corona in italien	intent:latest_numbers
+erzähl mir die neuesten statistiken in deutschland	intent:latest_numbers
+ich möchte mir die sterberate für deutschland anschauen	intent:latest_numbers
+kannst du mir die fallzahlen in deutschland sagen	intent:latest_numbers
+nenne mir die coronafakten aus deutschland	intent:latest_numbers
+was ist die neuste anzahl der fälle in europa	intent:latest_numbers
+wie hoch ist die corona-sterberate in deutschland	intent:latest_numbers
+wie sind die infizierten zahlen in deutschland heute	intent:latest_numbers
+wie sind die neuesten infektionszahlen	intent:latest_numbers
+wie viele menschen sind vom corona virus wieder genesen	intent:latest_numbers
+wie viele personen in sachsen sind infiziert	intent:latest_numbers
+zeig mir die aktuellen statistiken bitte	intent:latest_numbers
+zeig mir die corona fälle in deutschland	intent:latest_numbers
+zeig mir die letzten fallzahlen von corona in deutschland	intent:latest_numbers
+zeige die gestrigen fallzahlen weltweit	intent:latest_numbers
+helfen gesichtsmasken dabei, eine ansteckung mit dem coronavirus zu verhindern	intent:protect_yourself
+hilft häufiges händewaschen dabei, sich vor dem virus zu schützen	intent:protect_yourself
+kannst du mir tipps geben, wie ich mich vor dem coronavirus schützen kann	intent:protect_yourself
+sind handschuhe sinnvoll, um sich nicht mit corona anzustecken	intent:protect_yourself
+welche vorkehrungen kann man treffen, um sich gegen das coronavirus zu schützen	intent:protect_yourself
+worauf muss ich achten, wenn ich mich an öffentlichen plätzen aufhalte	intent:protect_yourself
+an welche hygieneregeln soll ich mich halten um mich vor corona zu schützen	intent:protect_yourself
+hilft mir das tragen einer maske mich nicht zu infizieren	intent:protect_yourself
+reicht ein schal aus um mich vor corona zu schützen	intent:protect_yourself
+schützen handschuhe vor einer ansteckung mit dem coronavirus	intent:protect_yourself
+was ist hilfreich um eine ansteckung des coronaviruses zu vermeiden	intent:protect_yourself
+welche art von mundnasenschutz ist zu empfehlen um eine ansteckung zu vermeiden	intent:protect_yourself
+welche vorkehrungen zur verhinderung des coronavirus sind zu treffen	intent:protect_yourself
+wie kann ich mundschutz selber herstellen	intent:protect_yourself
+wie kann man sich am besten vor dem coronavirus schützen	intent:protect_yourself
+wie oft sollte ich am tag hände waschen und desinfizieren um eine ansteckung mit corona zu vermeiden	intent:protect_yourself
+erzähle mir bitte, was das coronavirus ist	intent:what_is_corona
+ich möchte mehr über das coronavirus erfahren	intent:what_is_corona
+was passiert, wenn man corona hat	intent:what_is_corona
+alle informationen über das coronavirus	intent:what_is_corona
+allgemeine informationen zum coronavirus	intent:what_is_corona
+bitte gib mir detaillierte informationen über das coronavirus	intent:what_is_corona
+gib mir weitergehende informationen zum coronavirus bitte	intent:what_is_corona
+ich möchte mehr über das coronavirus erfahren	intent:what_is_corona
+kannst du mir etwas über das coronavirus erzählen	intent:what_is_corona
+kläre mich über das coronavirus auf	intent:what_is_corona
+mehr informationenüber das coronavirus	intent:what_is_corona
+sammle alle informationen über corona	intent:what_is_corona
+wann has das coronavirus zum ersten mal aufgetaucht und wo	intent:what_is_corona
+wann wurde das coronavirus zum ersten mal endteckt	intent:what_is_corona
+was ist die definition vom coronavirus	intent:what_is_corona
+was weiß man über das coronavirus	intent:what_is_corona
+welche symptome verursacht das coronavirus	intent:what_is_corona
+wie genau funktioniert dieser virus	intent:what_is_corona
+wie hat sich das coronavirus verbreiten können	intent:what_is_corona
+wie ist der forschungsstand beim coronavirus	intent:what_is_corona
+wie kam das coronavirus nach europa	intent:what_is_corona
+was hat man beim corona virus für symptome	intent:what_are_symptoms
+wie erkenne ich, dass ich corona habe	intent:what_are_symptoms
+woran erkenne ich, dass ich an corona erkrankt bin	intent:what_are_symptoms
+wann hat man corona	intent:what_are_symptoms
+was für arten an symptomenfür corona gibt es	intent:what_are_symptoms
+was passiert bei corona	intent:what_are_symptoms
+was sind die frühen symptome des coronavirus	intent:what_are_symptoms
+was sind die häufigsten coronavirus symptome	intent:what_are_symptoms
+was sind die klassischen symptome bei corona	intent:what_are_symptoms
+was sind die spätsymptome des coronavirus	intent:what_are_symptoms
+was sind die symptome der coronavirus-krankheit	intent:what_are_symptoms
+was sind typische symptome für das coronavirus	intent:what_are_symptoms
+welche indizien weisen auf eine coronainfektion hin	intent:what_are_symptoms
+welche möglichen symptome hat das coronavirus	intent:what_are_symptoms
+welche symptome hat das coronavirus	intent:what_are_symptoms
+welche symptome sind am häufigsten bei einer coronavirus-infektion	intent:what_are_symptoms
+welche symptome sprechen für den coronavirus	intent:what_are_symptoms
+wie kann man testen ob man sich mit dem virus angesteckt hat	intent:what_are_symptoms
+woher weiß ich ob ich mich mit corona angesteckt habe	intent:what_are_symptoms
+woran merkt man ob man mit corona infiziert ist	intent:what_are_symptoms
+zeige mir eine liste von coronavirussymptomen	intent:what_are_symptoms
+auf welchem wege verbreitet sich das virus	intent:how_does_corona_spread
+über welche wege verbreitet sich das coronavirus	intent:how_does_corona_spread
+auf welche weise kann man sich mit corona anstecken	intent:how_does_corona_spread
+auf welchen materialien bleibt das coronavirus lange ansteckend	intent:how_does_corona_spread
+gibt es eine vaccinefür covid-19 zurzeit	intent:how_does_corona_spread
+hält sich das virus an türklinken	intent:how_does_corona_spread
+ist das coronavirus über die luft übertragbar	intent:how_does_corona_spread
+ist das coronavirus durch haustiere übertragbar	intent:how_does_corona_spread
+kann corona auf oberflächen überleben	intent:how_does_corona_spread
+kann das virus über oberflächen übertragen werden	intent:how_does_corona_spread
+kann das virus über schuhsohlen übertragen werden	intent:how_does_corona_spread
+kann meine katze den coronavirus auf mich übertragen	intent:how_does_corona_spread
+kann sich corona im sommer schlechter ausbreiten	intent:how_does_corona_spread
+verbeitet sich das virus über die atemwege	intent:how_does_corona_spread
+verbreitet sich corona über die luft	intent:how_does_corona_spread
+welche verbreitungswege nutzt das virus	intent:how_does_corona_spread
+wie kann sich das coronavirus verbreiten	intent:how_does_corona_spread
+wie lange hält sich das coronavirus auf oberflächen	intent:how_does_corona_spread
+wie lange sind münzen von infizierten gefährlich	intent:how_does_corona_spread
+wie stecken sich die meisten menschen mit dem coronavirus an	intent:how_does_corona_spread
+wie verbreitet sich das coronavirus	intent:how_does_corona_spread
+wird das coronavirus von fledermäusen verbreitet	intent:how_does_corona_spread
+wird die krankheit auchüber die luft übertragen	intent:how_does_corona_spread
+darf ich meine katze noch anfassen, oder bekomme ich dann das coronavirus	intent:can_i_get_from_feces_animal_pets
+bringt meine freilaufende katze mir coronaviren ins haus	intent:can_i_get_from_feces_animal_pets
+können haustiere das coronavirus übertragen	intent:can_i_get_from_feces_animal_pets
+können haustiere das coronavirus auf den menschen übertragen	intent:can_i_get_from_feces_animal_pets
+kann der virus vom tier auf den menschen übertragen werden	intent:can_i_get_from_feces_animal_pets
+kann die katzen das virus in menschen anstecken	intent:can_i_get_from_feces_animal_pets
+kann ein hundebiss das coronavirus übertragen	intent:can_i_get_from_feces_animal_pets
+kann ich corona durch die übertragung mit meiner katze bekommen	intent:can_i_get_from_feces_animal_pets
+kann ich fleisch ohne bedenken essen	intent:can_i_get_from_feces_animal_pets
+kann ich meine haustiere gegen das virus schützen	intent:can_i_get_from_feces_animal_pets
+kann ich mich über verarbeitet tierprodukte anstecken	intent:can_i_get_from_feces_animal_pets
+kann ich mich an meiner katze anstecken	intent:can_i_get_from_feces_animal_pets
+kann ich mich bei meinem haustier mit dem virus infizieren	intent:can_i_get_from_feces_animal_pets
+kann ich mich bei meiner katze mit dem coronavirus anstecken	intent:can_i_get_from_feces_animal_pets
+kann ich mich bei tieren mit dem coronavirus anstecken	intent:can_i_get_from_feces_animal_pets
+kann ich mich durch den kontakt mit tieren mit dem virus infizieren	intent:can_i_get_from_feces_animal_pets
+kann ich mich von einem tier mit coronavirus infizieren	intent:can_i_get_from_feces_animal_pets
+kann ich mich von meinem hund infiziert werden	intent:can_i_get_from_feces_animal_pets
+kann mein haustier das virus übertragen	intent:can_i_get_from_feces_animal_pets
+kann mein haustier mich mit corona anstecken	intent:can_i_get_from_feces_animal_pets
+welche rolle spielen tiere bei der verbreitung des covid-19	intent:can_i_get_from_feces_animal_pets
+wie lange sollte ich keine oberfläche anfassen, um eine ansteckung mit corona zu vermeiden	intent:can_i_get_from_packages_surfaces
+auf welche arten von oberfläche kann das coronavirus überleben	intent:can_i_get_from_packages_surfaces
+auf welchen oberflächen hält sich das coronavirus überhaupt	intent:can_i_get_from_packages_surfaces
+bei welchen oberflächen ist das virus resistent	intent:can_i_get_from_packages_surfaces
+bleibt der coronavirus auf oberflächen am leben	intent:can_i_get_from_packages_surfaces
+coronavirus oberflächenübertragung möglich	intent:can_i_get_from_packages_surfaces
+darf man die oberflächen ohne handschuhe anfassen	intent:can_i_get_from_packages_surfaces
+in welche temperatur überlebt das virus noch	intent:can_i_get_from_packages_surfaces
+ist das virus auf oberflächen lange überlebensfähig	intent:can_i_get_from_packages_surfaces
+ist der virus  auch durch den versand von paketen  ansteckend	intent:can_i_get_from_packages_surfaces
+ist eine ansteckung durch mein paket möglich	intent:can_i_get_from_packages_surfaces
+kann das corona durch münzen oder geldscheine übertragen werden	intent:can_i_get_from_packages_surfaces
+kann das coronavirus aufürinkflaschen aus glas überleben	intent:can_i_get_from_packages_surfaces
+kann der coronavirus auf gelieferten paketen oder briefen übertragen werden	intent:can_i_get_from_packages_surfaces
+kann ich mich über ein ausgeliehenes buch aus der bibliothek anstecken	intent:can_i_get_from_packages_surfaces
+kann ich mich beim anfassen von türklinken anstecken	intent:can_i_get_from_packages_surfaces
+spielt die art der oberfläche eine rolle für die überlebensdauer des virus	intent:can_i_get_from_packages_surfaces
+verbreitet sich corona über die belüftungssysteme	intent:can_i_get_from_packages_surfaces
+wie hoch ist das risiko sich über türklinken anzustecken	intent:can_i_get_from_packages_surfaces
+wie lang überlebt das virus auf edelstahl	intent:can_i_get_from_packages_surfaces
+wie lange überlebt das virus auf obst und gemüse	intent:can_i_get_from_packages_surfaces
+ich war vor kurzem in einem hochrisikogebiet, was muss ich jetzt machen	intent:what_if_i_visited_high_risk_area
+muss ich in die quarantäne, wenn ich aus italien wiederkommen	intent:what_if_i_visited_high_risk_area
+muss ich in quarantäne, wenn ich vor kurzem im ausland war	intent:what_if_i_visited_high_risk_area
+was ist zu tun, wenn man aus einem hochrisikogebiet kommt	intent:what_if_i_visited_high_risk_area
+was kann ich machen, wenn ich in italien urlaub gemacht habe	intent:what_if_i_visited_high_risk_area
+was muss ich beachten, wenn ich mich in einem risikogebiet aufgehalten habe	intent:what_if_i_visited_high_risk_area
+was soll ich machen, wenn ein ich ein hochrisikogebiet besucht habe	intent:what_if_i_visited_high_risk_area
+was tue ich, wenn ich in einem hochrisikogebiet war	intent:what_if_i_visited_high_risk_area
+welche konkreten maßnahmen muss ich beachten, wenn ich in einer roten zone war	intent:what_if_i_visited_high_risk_area
+welche maßnahmen muss ich ergreifen, wenn ich mich in einem hochrisikogebiet befunden habe	intent:what_if_i_visited_high_risk_area
+wie soll ich mich in hinblick auf die coronapandemie verhalten, wenn ich in spanien war	intent:what_if_i_visited_high_risk_area
+wie soll ich vorgehen, wenn ich in einem hochrisikogebiet war	intent:what_if_i_visited_high_risk_area
+wie soll ich vorgehen, wenn ich in einem risikogebiet war	intent:what_if_i_visited_high_risk_area
+wo muss ich mich melden, wenn ich in einem risikogebiet war	intent:what_if_i_visited_high_risk_area
+worauf muss ich achten, wenn ich in einem risikogebiet war	intent:what_if_i_visited_high_risk_area
+maßnahmen bei rückreise aus risikogebiet	intent:what_if_i_visited_high_risk_area
+mein urlaub war in einem hochrisikogebiet wohin kann ich mich weden	intent:what_if_i_visited_high_risk_area
+muss ich mich in selbstquarantäne begeben	intent:what_if_i_visited_high_risk_area
+soll ich in quarantäne wenn ich aus den usa komme	intent:what_if_i_visited_high_risk_area
+sollte ich in meine heimat zurück wenn ich mich in einem risiko gebiet befinde	intent:what_if_i_visited_high_risk_area
+was muss ich tun wenn ich ein hochrisikogebiet besucht habe	intent:what_if_i_visited_high_risk_area
+was passiert wenn ich in einem risikogebiet vor einem monat war	intent:what_if_i_visited_high_risk_area
+welche gebiete gehören zu den corona risikogebieten	intent:what_if_i_visited_high_risk_area
+welche länder gehören zu den risikogebieten	intent:what_if_i_visited_high_risk_area
+braucht man bei corona infusionen	intent:what_are_treatment_options
+gibt es ein medikament, die das coronavirus verlangsamen kann	intent:what_are_treatment_options
+gibt es schon eine impfung gegen corona	intent:what_are_treatment_options
+hilft ingwer wirklich gegen coronavirus	intent:what_are_treatment_options
+reicht ein starkes immunsystem aus, um nicht angesteckt zu werden	intent:what_are_treatment_options
+welche behandlung bietet sich für das coronavirus an	intent:what_are_treatment_options
+wie wird man behandelt, wenn man corona hat	intent:what_are_treatment_options
+gib mir behandlungsoptionen	intent:what_are_treatment_options
+gibt es andere heilmethoden als nur die beatmung	intent:what_are_treatment_options
+gibt es bereits bekannte medikamente die bei diesem virus wirksam eingesetzt wurden	intent:what_are_treatment_options
+gibt es schon anti-virale medikamente gegen corona	intent:what_are_treatment_options
+heilmethode für coronavirus	intent:what_are_treatment_options
+helfen nahrungsergänzungsmittel gegen corona	intent:what_are_treatment_options
+lassen sich die coronavirus-krankheit mit antibiotika behandeln	intent:what_are_treatment_options
+was sind die maßnahmen zur heilung vom coronavirus	intent:what_are_treatment_options
+welche heilmittel gibt es gegen corona	intent:what_are_treatment_options
+welche medikamente bekommt man nach einer infektion mit dem virus	intent:what_are_treatment_options
+wie heilt man schnell das coronavirus	intent:what_are_treatment_options
+wie kann man eine erkrankung mit corona behandeln	intent:what_are_treatment_options
+erzähle mir den mythos, wie das corona-virus entstanden ist	intent:myths
+ist es ein mythos, dass corona ein teil der normalen grippesaison ist	intent:myths
+ist es ein mythos, dass covid-19 gefährlicher mit zunehmendem alter ist	intent:myths
+ist es ein mythos, dass der virus durch fledermäuse entstanden ist	intent:myths
+stimmt es, dass bill gates hinter allem steckt	intent:myths
+stimmt es, dass fledermäuse corona übertragen	intent:myths
+die top 10 mythen über das coronavirus	intent:myths
+gibt es beweise für corona mythen	intent:myths
+ist die offizielle entstehungs- und verbreitungsgeschichte des coronavirus ein mythos	intent:myths
+ist es ein mythos das coronavirus über die luft übertragen wird	intent:myths
+ist es ein mythos das der corona virus gefährlicher ist im hohen alter	intent:myths
+ist es ein mythos das der corona virus von menschen hand gemacht wurde	intent:myths
+stimmt der mythos dass der virus über schlangen verändert wurde	intent:myths
+stimmt der mythos mit der fledermaussuppe als auslöser von corona	intent:myths
+was für mythen stimmen nicht über corona	intent:myths
+was sind die beliebtesten verschwörungstheorien im zusammenhang mit der coronapandemie	intent:myths
+welche mythen zum coronavirus sind falsch	intent:myths
+wer kann mir die wahrheit zu corona sagen	intent:myths
+wo finde ich informationen über mythen des coronavirus	intent:myths
+ist es aktuell sicher, mit einem taxi zu fahren	intent:travel
+kann ich meine familie mit dem auto besuchen	intent:travel
+wie kann ich mit dem coronavirus sicher gehen, wenn ich nach frankreich fliegen werde	intent:travel
+ab wann kann man wieder nach mallorca fliegen	intent:travel
+alle infos zu ausgangssperren und einschränkungen	intent:travel
+darf ich meine freunde in einem anderen bundesland nicht mehr besuchen	intent:travel
+ich brauche bitte eine reiseberatung	intent:travel
+ich wollte im sommer urlaub in china machen. ist dies noch zu empfehlen	intent:travel
+ist es besser mit dem zug oder dem bus zu fahren	intent:travel
+ist es ratsam meine reise nach thailand abzusagen	intent:travel
+ist es sicher in deutschland busse ohne atemschutzmaske zu nutzen	intent:travel
+ist es sinnvoll keinen sommerurlaub zu buchen	intent:travel
+ist mein flug nach amerika storniert worden	intent:travel
+ist sylt noch immer für besucher gesperrt	intent:travel
+kann ich mein deutsche bahn sparpreis ticket stornieren	intent:travel
+mit welchem verkehrsmittel kann ich in den urlaub fahren	intent:travel
+mit welchem verkehrsmittel sollte man heutzutage reisen	intent:travel
+muss ich mir gedanken über meinen sommerurlaub machen	intent:travel
+sind reisen wegen dem coronavirus ins ausland verboten	intent:travel
+wann darf man wieder in die usa einreisen	intent:travel
+wann werden flüge innerhalb europas wieder möglich sein	intent:travel
+welche neuen regeln beim fliegen gibt es	intent:travel
+wie sicher ist der sommerurlaub	intent:travel
+aktuellen nachrichten zu corona in nrw	intent:news_and_press
+bitte gibt mir update über den virus in nürnberg	intent:news_and_press
+bitte schick mir corona-nachrichten für berlin	intent:news_and_press
+die letzten nachrichten über corona bitte	intent:news_and_press
+erzähl mir die neuigkeiten in taiwan bitte	intent:news_and_press
+gib mir einen überblick über die neuesten nachrichten zu corona	intent:news_and_press
+gibt es ein update über die lage in new york	intent:news_and_press
+gibt es entwicklungen bezüglich des coronavirus in deutschland	intent:news_and_press
+gibt es etwas neues über den coronavirus	intent:news_and_press
+gibt es irgendwelche neuigkeiten über corona	intent:news_and_press
+gibt es neuigkeiten bezüglich der lockerung der schutzma??nahmen	intent:news_and_press
+nenne mir aktuelle nachrichten über die weltweite coronaentwicklung	intent:news_and_press
+wie ist die aktuelle lage bezüglich des coronavirus in deutschland	intent:news_and_press
+wie sind die aktuellen corona entwicklungen in deutschland	intent:news_and_press
+zeig mir alle neuigkeiten aus den nachrichten zum virus	intent:news_and_press
+zeig mir die neuesten entwicklungen zu covid 19 in bonn an	intent:news_and_press
+bitte diesen bot nicht teilen, er ist nicht aktuell und sehr dumm	intent:share
+erkläre mir, wie es möglich ist, den service zu teilen	intent:share
+bitte diese who information teilen	intent:share
+bitte information über meine corona-erkarankung auf fb posten	intent:share
+bitte verteile diesen bot	intent:share
+den link weiterschicken	intent:share
+den link will ich sharen	intent:share
+die symptome des coronavirus auf facebook teilen	intent:share
+diese info bitte teilen	intent:share
+diesen nachrichtenartikel als link teilen	intent:share
+ich möchte diesen who service teilen auf facebook	intent:share
+leite diesen chat an andere weiter	intent:share
+schicke diesen link an all meine favoriten kontakte	intent:share
+stelle diese info online	intent:share
+teil diesen chat auf meinem facebook bitte	intent:share
+teile diese information in meiner whatsapp gruppe	intent:share
+teile diese infos mit meiner freundesliste	intent:share
+teile diesen bot mit meinen whatsapp kontakten	intent:share
+teile diesen link auf facebook mit all meinen freunden	intent:share
+teile diesen service mit einem freund	intent:share
+teilen sie die aktualisierten statistiken des coronavirus in der whatsapp-story	intent:share
+wie kann ich diese information teilen	intent:share
+wie kann ich diesen service mit meinen freunden teilen	intent:share
+zeige das coronavirus update von worldometer.info auf meinem facebook	intent:share
+hey doc, was gibt's neues	intent:hi
+hey, corona-expert	intent:hi
+grüße dich corona	intent:hi
+guten tag corona professor	intent:hi
+guten tag doctor	intent:hi
+hallo blechdose	intent:hi
+hallo bot	intent:hi
+hallo covid-bot	intent:hi
+hallo fledermaus-virus	intent:hi
+hallo professor	intent:hi
+hey corona-bot	intent:hi
+hey coronahilfe	intent:hi
+hey lügner	intent:hi
+hey who bot	intent:hi
+moin corona	intent:hi
+bot, du bist der beste	intent:okay_thanks
+danke doc, das hat mir sehr geholfen	intent:okay_thanks
+danke, dass du mir hilfst, corona doktor	intent:okay_thanks
+danke, jetzt fühle ich mich sicherer	intent:okay_thanks
+du hast mir sehr geholfen bot, danke	intent:okay_thanks
+ich bedanke mich sehr, corona	intent:okay_thanks
+ich danke dir, corona doc	intent:okay_thanks
+danke das war sehr hilfreich	intent:okay_thanks
+danke für alle diese nützliche informationen bot	intent:okay_thanks
+danke für deine unterstützung	intent:okay_thanks
+danke für die antwort	intent:okay_thanks
+danke für die neue informationen	intent:okay_thanks
+danke für die tipps	intent:okay_thanks
+danke und bis zur nächsten sprechstunde	intent:okay_thanks
+herzlichen dank doktor	intent:okay_thanks
+ich möchte ihnen für ihre hilfe danken	intent:okay_thanks
+vielen dank für all deine hilfe	intent:okay_thanks
+vielen dank für deine vielen informationen	intent:okay_thanks
+vielen dank für die infos	intent:okay_thanks
+in der covid-19 krise arme länder finanziell unterschtützen	intent:donate
+kannst du mir sagen, wo ich geld für die bekämpfung des corona-virus spenden kann	intent:donate
+kannst du mir zeigen, wo ich geld spenden kann	intent:donate
+wie ist es möglich, für yemen zu spenden	intent:donate
+wie kann ich spenden, um den gefährdeten zu helfen	intent:donate
+bei welcher organisation kann ich spenden	intent:donate
+gibt es einen spendenfond für lokale unternehmen in frankfurt	intent:donate
+ich möchte die bekämpfung des virus fürdern	intent:donate
+ich möchte für eine hilfürganisation spenden	intent:donate
+ich würde gerne für die betroffenen in italien spenden	intent:donate
+ich will an corona-spenden-fonds spenden	intent:donate
+ich will eine spende an spanien senden	intent:donate
+ich will eine spende für das deutsche rote kreuz taetigen	intent:donate
+kann ich für meine heimatstadt irgendwo spenden	intent:donate
+sind auch sachspenden möglich	intent:donate
+wie kann ich für die leute in italien spenden	intent:donate
+wie kann ich geld für die coronahelfer spenden	intent:donate
+wie kann ich hilfsbedürftigen spenden	intent:donate
+wie spende ich an die who	intent:donate
+wie viel geld sollte man jetzt spenden	intent:donate
+wo kann ich geld für die forschung spenden	intent:donate
+wohin in deutschland kann ich geld spenden	intent:donate
+wohin kann ich mich wenden um zu spenden	intent:donate

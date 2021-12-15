@@ -1,0 +1,169 @@
+banking:
+transfer
+transactions
+balance
+freeze account
+pay bill
+bill balance
+bill due
+interest rate
+routing
+min payment
+order checks
+pin change
+report fraud
+spending history
+account blocked
+
+credit cards:
+credit limit
+credit limit change
+international fees
+expiration date
+credit score
+replacement card duration
+card declined
+improve credit score
+report lost card
+damaged card
+redeem rewards
+apr
+application status
+new card
+rewards balance
+
+kitchen & dining:
+recipe
+restaurant reservation
+restaurant reviews
+nutrition info
+ingredients list
+cancel reservation
+how busy
+ingredient substitution
+confirm reservation
+meal suggestion
+accept reservations
+restaurant suggestion
+cook time
+calories
+food last
+
+home:
+shopping list
+shopping list update
+smart home
+reminder
+reminder update
+order
+order status
+what song
+todo list
+todo list update
+next song
+play music
+update playlist
+calendar
+calendar update
+
+auto & commute:
+traffic
+tire change
+tire pressure
+last maintenance
+schedule maintenance
+uber
+jump start
+oil change how
+oil change when
+mpg
+current location
+distance
+gas
+gas type
+directions
+
+travel:
+travel alert
+flight status
+travel notification
+travel suggestion
+exchange rate
+plug type
+lost luggage
+international visa
+translate
+timezone
+vaccines
+book flight
+book hotel
+car rental
+carry on
+
+utility:
+roll dice
+definition
+flip coin
+measurement conversion
+timer
+spelling
+date
+text
+weather
+make call
+time
+share location
+calculator
+alarm
+find phone
+
+work:
+direct deposit
+pto balance
+insurance
+insurance change
+next holiday
+w2
+payday
+taxes
+meeting schedule
+pto request
+income
+rollover 401k
+schedule meeting
+pto request status
+pto used
+
+small talk:
+goodbye
+where are you from
+greeting
+tell joke
+how old are you
+what is your name
+who made you
+thank you
+what can i ask you
+do you have pets
+what are your hobbies
+are you a bot
+meaning of life
+who do you work for
+fun fact
+
+meta:
+cancel
+change accent
+change ai name
+change language
+change speed
+change user name
+change volume
+maybe
+no
+repeat
+reset settings
+sync device
+user name
+whisper mode
+yes
